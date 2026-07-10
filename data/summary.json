@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-07-10",
+  "source": "https://gapmine.com",
+  "sectors": [
+    {
+      "sector": "tech",
+      "label": "Developer and Tech Tools",
+      "total_gaps": 97,
+      "total_signals": 354
+    },
+    {
+      "sector": "ecommerce",
+      "label": "Ecommerce and DTC",
+      "total_gaps": 50,
+      "total_signals": 397
+    },
+    {
+      "sector": "nocode",
+      "label": "No-Code and Automation",
+      "total_gaps": 46,
+      "total_signals": 206
+    },
+    {
+      "sector": "creator",
+      "label": "Creator Economy",
+      "total_gaps": 38,
+      "total_signals": 204
+    }
+  ]
+}
