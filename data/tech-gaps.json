@@ -3,8 +3,8 @@
   "label": "Developer and Tech Tools",
   "generated_at": "2026-07-11",
   "total_gaps": 96,
-  "total_signals": 336,
-  "total_sources": 208,
+  "total_signals": 338,
+  "total_sources": 209,
   "methodology": "Gaps are clusters of real builder conversations mined from Reddit, Hacker News, Product Hunt and GitHub, graded by verifiable evidence. No AI-invented ideas.",
   "canonical_report": "https://gapmine.com/blog/state-of-tech-gaps-2026",
   "license": "CC-BY-4.0 — free to cite with attribution to GapMine (https://gapmine.com)",
@@ -13,7 +13,7 @@
       "rank": 1,
       "opportunity": "Enterprise Single Sign-On",
       "who_is_asking": "AWS developers stuck on basic authentication, seeking Enterprise SSO with AWS ALB and Entra ID",
-      "signals": 5,
+      "signals": 6,
       "sources": 4,
       "evidence": "validated",
       "url": "https://gapmine.com/opportunities/2026-06-30/enterprise-sso"
@@ -148,9 +148,9 @@
       "rank": 16,
       "opportunity": "Private photo library without cloud dependency",
       "who_is_asking": "Self-hosted users stuck on Eagle.cool, seeking web-based photo/video tagging and sorting alternatives",
-      "signals": 3,
-      "sources": 3,
-      "evidence": "corroborated",
+      "signals": 4,
+      "sources": 4,
+      "evidence": "validated",
       "url": "https://gapmine.com/opportunities/2026-06-18/self-hosted-photo-organization"
     },
     {

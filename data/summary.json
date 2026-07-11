@@ -6,19 +6,19 @@
       "sector": "tech",
       "label": "Developer and Tech Tools",
       "total_gaps": 96,
-      "total_signals": 336
+      "total_signals": 338
     },
     {
       "sector": "ecommerce",
       "label": "Ecommerce and DTC",
-      "total_gaps": 51,
-      "total_signals": 398
+      "total_gaps": 53,
+      "total_signals": 406
     },
     {
       "sector": "nocode",
       "label": "No-Code and Automation",
-      "total_gaps": 47,
-      "total_signals": 210
+      "total_gaps": 46,
+      "total_signals": 208
     },
     {
       "sector": "creator",

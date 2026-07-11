@@ -5,7 +5,7 @@
 <p align="center"><b>An open, continuously-updated dataset of unbuilt market gaps</b><br>
 mined from real builder conversations on Reddit, Hacker News, Product Hunt and GitHub.</p>
 
-<p align="center"><a href="https://gapmine.com">gapmine.com</a> · Updated 2026-07-11 · 231 gaps across 4 sectors · License: CC-BY-4.0</p>
+<p align="center"><a href="https://gapmine.com">gapmine.com</a> · Updated 2026-07-11 · 232 gaps across 4 sectors · License: CC-BY-4.0</p>
 
 ---
 
@@ -17,9 +17,9 @@ mined from real builder conversations on Reddit, Hacker News, Product Hunt and G
 
 | Sector | Gaps tracked | Builder signals | Links |
 |---|---|---|---|
-| **Developer and Tech Tools** | 96 | 336 | [Report ↗](https://gapmine.com/blog/state-of-tech-gaps-2026) · [JSON](data/tech-gaps.json) |
-| **Ecommerce and DTC** | 51 | 398 | [Report ↗](https://gapmine.com/blog/state-of-ecommerce-gaps-2026) · [JSON](data/ecommerce-gaps.json) |
-| **No-Code and Automation** | 47 | 210 | [Report ↗](https://gapmine.com/blog/state-of-nocode-gaps-2026) · [JSON](data/nocode-gaps.json) |
+| **Developer and Tech Tools** | 96 | 338 | [Report ↗](https://gapmine.com/blog/state-of-tech-gaps-2026) · [JSON](data/tech-gaps.json) |
+| **Ecommerce and DTC** | 53 | 406 | [Report ↗](https://gapmine.com/blog/state-of-ecommerce-gaps-2026) · [JSON](data/ecommerce-gaps.json) |
+| **No-Code and Automation** | 46 | 208 | [Report ↗](https://gapmine.com/blog/state-of-nocode-gaps-2026) · [JSON](data/nocode-gaps.json) |
 | **Creator Economy** | 37 | 203 | [Report ↗](https://gapmine.com/blog/state-of-creator-gaps-2026) · [JSON](data/creator-gaps.json) |
 
 - **`data/<sector>-gaps.json`** — ranked opportunities with the audience asking, signal counts, and an evidence grade (`validated` / `corroborated` / `early`).
