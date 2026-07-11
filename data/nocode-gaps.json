@@ -11,24 +11,6 @@
   "opportunities": [
     {
       "rank": 1,
-      "opportunity": "Zapier Error Debugger",
-      "who_is_asking": "RevOps leaders at 50-person B2B SaaS, losing deals to silent Zapier failures and $400/mo overspend · cite signal#1",
-      "signals": 4,
-      "sources": 1,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-11/zapier-code-step-debugging"
-    },
-    {
-      "rank": 2,
-      "opportunity": "Auto Slide Generator",
-      "who_is_asking": "Obsidian users stuck on manually formatting dense notes into presentation slides",
-      "signals": 4,
-      "sources": 3,
-      "evidence": "validated",
-      "url": "https://gapmine.com/opportunities/2026-06-30/youtube-slide-formatting-automation"
-    },
-    {
-      "rank": 3,
       "opportunity": "AI Powered Notion Automation",
       "who_is_asking": "Notion founders can't automate tasks across apps, stuck on siloed AI limitations",
       "signals": 9,
@@ -37,7 +19,16 @@
       "url": "https://gapmine.com/opportunities/2026-07-03/notion-ai-pipeline-integration"
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "opportunity": "Zapier Error Debugger",
+      "who_is_asking": "RevOps leaders at 50-person B2B SaaS, losing deals to silent Zapier failures and $400/mo overspend · cite signal#1",
+      "signals": 4,
+      "sources": 1,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-11/zapier-code-step-debugging"
+    },
+    {
+      "rank": 3,
       "opportunity": "AI Powered WordPress Converter",
       "who_is_asking": "",
       "signals": 3,
@@ -46,16 +37,7 @@
       "url": "https://gapmine.com/opportunities/2026-07-02/wordpress-to-ai-codebase-converter"
     },
     {
-      "rank": 5,
-      "opportunity": "ADHD Friendly Note Organizer",
-      "who_is_asking": "",
-      "signals": 3,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-08/adhd-note-organization-tool"
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "opportunity": "Sync Airtable and Sheets without manual updates",
       "who_is_asking": "Airtable users stuck on one-way sync tools, wanting real-time 2-way sync with Google Sheets",
       "signals": 2,
@@ -64,13 +46,31 @@
       "url": "https://gapmine.com/opportunities/2026-06-24/airtable-sheets-two-way-sync"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "opportunity": "Workflow Migration Assistant",
       "who_is_asking": "n8n self-host users stuck on manually copying workflows between environments",
       "signals": 2,
       "sources": 2,
       "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-07-07/workflow-migration-tool"
+    },
+    {
+      "rank": 6,
+      "opportunity": "ADHD Friendly Note Organizer",
+      "who_is_asking": "",
+      "signals": 3,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-08/adhd-note-organization-tool"
+    },
+    {
+      "rank": 7,
+      "opportunity": "Obsidian Org Mode Support",
+      "who_is_asking": "Obsidian users stuck on markdown, wanting orgmode features like tables and todos",
+      "signals": 2,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-20/obsidian-orgmode-support"
     },
     {
       "rank": 8,
@@ -83,15 +83,6 @@
     },
     {
       "rank": 9,
-      "opportunity": "Obsidian Org Mode Support",
-      "who_is_asking": "Obsidian users stuck on markdown, wanting orgmode features like tables and todos",
-      "signals": 2,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-20/obsidian-orgmode-support"
-    },
-    {
-      "rank": 10,
       "opportunity": "Easy Website Updates",
       "who_is_asking": "",
       "signals": 5,
@@ -100,7 +91,7 @@
       "url": "https://gapmine.com/opportunities/2026-07-02/small-business-website-conversion"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "opportunity": "Notion Database Sharer",
       "who_is_asking": "",
       "signals": 3,
@@ -109,7 +100,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-16/notion-filtered-database-sharing"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "opportunity": "Airtable PDF Reports",
       "who_is_asking": "Airtable users stuck on generating PDFs with linked records and formatting issues",
       "signals": 3,
@@ -118,7 +109,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-16/pdf-generation-linked-records"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "opportunity": "SaaS Subscription Manager",
       "who_is_asking": "SaaS founders stuck with Chargebee, seeking reliable subscription management alternatives",
       "signals": 3,
@@ -127,7 +118,7 @@
       "url": "https://gapmine.com/opportunities/2026-07-03/micro-saas-idea"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "opportunity": "Automated Cash Flow Tracker",
       "who_is_asking": "Nocode developers stuck on manual receipt tracking, losing expenses with messy paper receipts",
       "signals": 5,
@@ -136,7 +127,7 @@
       "url": "https://gapmine.com/opportunities/2026-07-07/cash-flow-tracking-automation"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "opportunity": "Launch campaigns without marketing expertise",
       "who_is_asking": "Nocode builders stuck on launching first email campaign without marketing expertise",
       "signals": 3,
@@ -145,7 +136,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-23/b2b-email-marketing-outreach"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "opportunity": "Airtable forms for WordPress",
       "who_is_asking": "WordPress users stuck on connecting intake forms to Airtable via webhooks",
       "signals": 2,
@@ -154,7 +145,7 @@
       "url": "https://gapmine.com/opportunities/2026-07-03/airtable-wordpress-form-integration"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "opportunity": "App Consolidation Tool",
       "who_is_asking": "Nocode founders drowning in 10-30 apps, losing work in manual handoffs between tools",
       "signals": 2,
@@ -163,7 +154,7 @@
       "url": "https://gapmine.com/opportunities/2026-07-07/workflow-app-consolidation-platform"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "opportunity": "Vibe Code App Repair",
       "who_is_asking": "Retool no-coders losing autonomy, priced out of Enterprise plan with tripled annual spend",
       "signals": 5,
@@ -172,7 +163,7 @@
       "url": "https://gapmine.com/opportunities/2026-07-02/no-code-software-development"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "opportunity": "Small Business Marketing Tools",
       "who_is_asking": "Nocode founders stuck on converting non-technical small businesses to paid subscribers",
       "signals": 2,
@@ -181,7 +172,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-16/notech-small-business-saas"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "opportunity": "Bubble Booking System Integration",
       "who_is_asking": "Bubble users stuck on booking system for soft play centre with movable tables and limited seats",
       "signals": 2,
@@ -190,7 +181,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-21/bubble-meal-seat-booking-system"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "opportunity": "Quick Capture to Obsidian",
       "who_is_asking": "Nocode users stuck on quick capture tools, hunting alternatives to Obsidian Clipper",
       "signals": 2,
@@ -199,7 +190,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-26/quick-capture-tool-for-obsidian"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "opportunity": "AI Note Organizer",
       "who_is_asking": "Obsidian users stuck on auto-syncing AI chats and social media into one connected note graph",
       "signals": 2,
@@ -208,13 +199,22 @@
       "url": "https://gapmine.com/opportunities/2026-07-08/ai-note-auto-organization"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "opportunity": "AI Landing Page Builder",
       "who_is_asking": "Founders stuck on creating landing pages, wanting AI to generate copy and design",
       "signals": 1,
       "sources": 1,
       "evidence": "early",
       "url": "https://gapmine.com/opportunities/2026-07-02/ai-landing-page-builder"
+    },
+    {
+      "rank": 23,
+      "opportunity": "Workflow Automation Platform Comparison",
+      "who_is_asking": "Nocode users stuck on automation setup due to technical complexity",
+      "signals": 9,
+      "sources": 9,
+      "evidence": "validated",
+      "url": "https://gapmine.com/opportunities/2026-06-15/automation-tool-evaluation"
     },
     {
       "rank": 24,
