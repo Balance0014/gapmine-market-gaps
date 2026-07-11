@@ -1,10 +1,10 @@
 {
   "sector": "creator",
   "label": "Creator Economy",
-  "generated_at": "2026-07-10",
-  "total_gaps": 38,
-  "total_signals": 204,
-  "total_sources": 87,
+  "generated_at": "2026-07-11",
+  "total_gaps": 37,
+  "total_signals": 203,
+  "total_sources": 86,
   "methodology": "Gaps are clusters of real builder conversations mined from Reddit, Hacker News, Product Hunt and GitHub, graded by verifiable evidence. No AI-invented ideas.",
   "canonical_report": "https://gapmine.com/blog/state-of-creator-gaps-2026",
   "license": "CC-BY-4.0 — free to cite with attribution to GapMine (https://gapmine.com)",
@@ -200,15 +200,6 @@
     },
     {
       "rank": 22,
-      "opportunity": "Timestamped Video Notes Tool",
-      "who_is_asking": "",
-      "signals": 1,
-      "sources": 1,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-06-15/video-editing-format-conversion"
-    },
-    {
-      "rank": 23,
       "opportunity": "Personalized media tracker",
       "who_is_asking": "iOS App Store creators stuck on tracking media progress across TV, movies, anime, music, and games",
       "signals": 3,
@@ -217,7 +208,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-28/media-tracking-app"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "opportunity": "Newsletter Leaderboard",
       "who_is_asking": "Substack creators stuck on discovery, dominated by huge names, seeking engagement-based leaderboard alternatives",
       "signals": 2,
@@ -226,13 +217,22 @@
       "url": "https://gapmine.com/opportunities/2026-06-30/newsletter-discovery"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "opportunity": "Secure Keyboard App",
       "who_is_asking": "",
       "signals": 2,
       "sources": 2,
       "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-07-02/safest-keyboard-alternative"
+    },
+    {
+      "rank": 25,
+      "opportunity": "Daily Task Planner",
+      "who_is_asking": "",
+      "signals": 2,
+      "sources": 1,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-03/task-calendar-drag-drop"
     }
   ]
 }
