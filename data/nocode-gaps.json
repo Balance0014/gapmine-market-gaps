@@ -3,8 +3,8 @@
   "label": "No-Code and Automation",
   "generated_at": "2026-07-11",
   "total_gaps": 47,
-  "total_signals": 208,
-  "total_sources": 117,
+  "total_signals": 210,
+  "total_sources": 118,
   "methodology": "Gaps are clusters of real builder conversations mined from Reddit, Hacker News, Product Hunt and GitHub, graded by verifiable evidence. No AI-invented ideas.",
   "canonical_report": "https://gapmine.com/blog/state-of-nocode-gaps-2026",
   "license": "CC-BY-4.0 — free to cite with attribution to GapMine (https://gapmine.com)",
@@ -121,9 +121,9 @@
       "rank": 13,
       "opportunity": "SaaS Subscription Manager",
       "who_is_asking": "SaaS founders stuck with Chargebee, seeking reliable subscription management alternatives",
-      "signals": 1,
-      "sources": 1,
-      "evidence": "early",
+      "signals": 3,
+      "sources": 2,
+      "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-07-03/micro-saas-idea"
     },
     {

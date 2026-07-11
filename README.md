@@ -17,9 +17,9 @@ mined from real builder conversations on Reddit, Hacker News, Product Hunt and G
 
 | Sector | Gaps tracked | Builder signals | Links |
 |---|---|---|---|
-| **Developer and Tech Tools** | 96 | 335 | [Report ↗](https://gapmine.com/blog/state-of-tech-gaps-2026) · [JSON](data/tech-gaps.json) |
+| **Developer and Tech Tools** | 96 | 336 | [Report ↗](https://gapmine.com/blog/state-of-tech-gaps-2026) · [JSON](data/tech-gaps.json) |
 | **Ecommerce and DTC** | 51 | 398 | [Report ↗](https://gapmine.com/blog/state-of-ecommerce-gaps-2026) · [JSON](data/ecommerce-gaps.json) |
-| **No-Code and Automation** | 47 | 208 | [Report ↗](https://gapmine.com/blog/state-of-nocode-gaps-2026) · [JSON](data/nocode-gaps.json) |
+| **No-Code and Automation** | 47 | 210 | [Report ↗](https://gapmine.com/blog/state-of-nocode-gaps-2026) · [JSON](data/nocode-gaps.json) |
 | **Creator Economy** | 37 | 203 | [Report ↗](https://gapmine.com/blog/state-of-creator-gaps-2026) · [JSON](data/creator-gaps.json) |
 
 - **`data/<sector>-gaps.json`** — ranked opportunities with the audience asking, signal counts, and an evidence grade (`validated` / `corroborated` / `early`).
