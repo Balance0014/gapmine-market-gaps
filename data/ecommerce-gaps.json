@@ -1,9 +1,9 @@
 {
   "sector": "ecommerce",
   "label": "Ecommerce and DTC",
-  "generated_at": "2026-07-10",
-  "total_gaps": 50,
-  "total_signals": 397,
+  "generated_at": "2026-07-11",
+  "total_gaps": 51,
+  "total_signals": 398,
   "total_sources": 161,
   "methodology": "Gaps are clusters of real builder conversations mined from Reddit, Hacker News, Product Hunt and GitHub, graded by verifiable evidence. No AI-invented ideas.",
   "canonical_report": "https://gapmine.com/blog/state-of-ecommerce-gaps-2026",
@@ -38,7 +38,7 @@
     },
     {
       "rank": 4,
-      "opportunity": "EU Payment Gateway",
+      "opportunity": "EU Payment Processor",
       "who_is_asking": "",
       "signals": 4,
       "sources": 2,
@@ -47,7 +47,7 @@
     },
     {
       "rank": 5,
-      "opportunity": "Amazon Fashion Seller Kit",
+      "opportunity": "Amazon Fashion Partner",
       "who_is_asking": "Shopify sellers approached by Amazon Fashion, unsure about integrating their brand",
       "signals": 2,
       "sources": 1,
@@ -184,8 +184,8 @@
       "rank": 20,
       "opportunity": "Amazon Seller Daily Reports",
       "who_is_asking": "Amazon sellers losing margin, hunting for manual fixes in weekly reviews",
-      "signals": 7,
-      "sources": 4,
+      "signals": 6,
+      "sources": 3,
       "evidence": "validated",
       "url": "https://gapmine.com/opportunities/2026-06-15/amazon-seller-reporting-tools"
     },

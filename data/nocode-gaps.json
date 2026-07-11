@@ -1,10 +1,10 @@
 {
   "sector": "nocode",
   "label": "No-Code and Automation",
-  "generated_at": "2026-07-10",
-  "total_gaps": 46,
-  "total_signals": 206,
-  "total_sources": 115,
+  "generated_at": "2026-07-11",
+  "total_gaps": 47,
+  "total_signals": 208,
+  "total_sources": 117,
   "methodology": "Gaps are clusters of real builder conversations mined from Reddit, Hacker News, Product Hunt and GitHub, graded by verifiable evidence. No AI-invented ideas.",
   "canonical_report": "https://gapmine.com/blog/state-of-nocode-gaps-2026",
   "license": "CC-BY-4.0 — free to cite with attribution to GapMine (https://gapmine.com)",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "opportunity": "Slide Automation Tool",
+      "opportunity": "Auto Slide Generator",
       "who_is_asking": "Obsidian users stuck on manually formatting dense notes into presentation slides",
       "signals": 4,
       "sources": 3,
