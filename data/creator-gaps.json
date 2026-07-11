@@ -11,15 +11,6 @@
   "opportunities": [
     {
       "rank": 1,
-      "opportunity": "Podcast Recording Tool",
-      "who_is_asking": "Podcast creators stuck on low video quality with Riverside and Continuity Camera",
-      "signals": 4,
-      "sources": 3,
-      "evidence": "validated",
-      "url": "https://gapmine.com/opportunities/2026-06-21/podcast-recording-alternative"
-    },
-    {
-      "rank": 2,
       "opportunity": "Portable Display Monitor",
       "who_is_asking": "Remote creators hunting for portable monitors under $100 for flexible work setups",
       "signals": 2,
@@ -28,16 +19,7 @@
       "url": "https://gapmine.com/opportunities/2026-07-02/portable-monitor"
     },
     {
-      "rank": 3,
-      "opportunity": "Substack Community Hub",
-      "who_is_asking": "Substack creators stuck on growing their community, seeking a hub to connect and collaborate",
-      "signals": 3,
-      "sources": 1,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-03/substack-social-icons"
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "opportunity": "Easy podcast distribution",
       "who_is_asking": "Reddit creators stuck on quick podcast editing tools",
       "signals": 5,
@@ -46,7 +28,7 @@
       "url": "https://gapmine.com/opportunities/2026-07-03/apple-podcast-submission-process"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "opportunity": "AI Powered Instagram Sales",
       "who_is_asking": "Instagram sellers manually checking stock and sending payment links, falling apart at high volume",
       "signals": 4,
@@ -55,13 +37,31 @@
       "url": "https://gapmine.com/opportunities/2026-07-07/instagram-ai-sales-dm-tool"
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "opportunity": "Substack Community Hub",
+      "who_is_asking": "Substack creators stuck on growing their community, seeking a hub to connect and collaborate",
+      "signals": 3,
+      "sources": 1,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-03/substack-social-icons"
+    },
+    {
+      "rank": 5,
       "opportunity": "Stem Separation Software",
       "who_is_asking": "Creator software users stuck on stem separation, seeking open-source alternative to AudioShake",
       "signals": 2,
       "sources": 2,
       "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-07-02/stem-separation-tool"
+    },
+    {
+      "rank": 6,
+      "opportunity": "Audio Story Production Tools",
+      "who_is_asking": "Audio creators stuck on producing audio dramas with limited crew and budget",
+      "signals": 2,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-06/audio-drama-creation"
     },
     {
       "rank": 7,
@@ -74,15 +74,6 @@
     },
     {
       "rank": 8,
-      "opportunity": "Audio Story Production Tools",
-      "who_is_asking": "Audio creators stuck on producing audio dramas with limited crew and budget",
-      "signals": 2,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-06/audio-drama-creation"
-    },
-    {
-      "rank": 9,
       "opportunity": "Instagram Growth Booster",
       "who_is_asking": "Instagram creators stuck on low-quality growth apps, seeking secure alternatives",
       "signals": 4,
@@ -91,7 +82,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-24/instagram-growth-tool"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "opportunity": "Email Management for Creators",
       "who_is_asking": "Creator email users priced out of Superhuman, hunting for affordable alternatives",
       "signals": 3,
@@ -100,7 +91,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-03/email-management-tool"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "opportunity": "Thoughtful Relationship Reminder",
       "who_is_asking": "Solopreneurs losing personal relationship details, wanting a private memory box for friends and family",
       "signals": 3,
@@ -109,7 +100,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-19/relationship-reminder-app"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "opportunity": "Document Reader Software",
       "who_is_asking": "",
       "signals": 2,
@@ -118,7 +109,7 @@
       "url": "https://gapmine.com/opportunities/2026-07-08/all-in-one-document-reader"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "opportunity": "Viral Video Maker Tool",
       "who_is_asking": "Creator-general users stuck on manual video editing, seeking automation for marketing content",
       "signals": 10,
@@ -127,7 +118,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-16/viral-video-product-insertion"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "opportunity": "YouTube Long-Form Growth",
       "who_is_asking": "YouTube creators losing views, stuck on algorithm not pushing long-form videos",
       "signals": 5,
@@ -136,7 +127,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-23/long-form-youtube-production"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "opportunity": "Affiliate Program Finder",
       "who_is_asking": "YouTube creators hunting for better affiliate programs than Amazon Affiliates",
       "signals": 3,
@@ -145,7 +136,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-30/creator-affiliate-program-discovery"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "opportunity": "Private Browser Design Tools",
       "who_is_asking": "Canva users wanting offline design tools with ready-made templates and decorative assets",
       "signals": 2,
@@ -154,7 +145,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-24/privacy-first-design-tool"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "opportunity": "Podcast Hosting with Ad Integration",
       "who_is_asking": "Podcast creators stuck on Buzzsprout, seeking flexible hosting with API or webhooks support",
       "signals": 5,
@@ -163,7 +154,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-23/podcast-hosting-ad-integration"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "opportunity": "Easy YouTube playlist saver",
       "who_is_asking": "YouTube creators losing TubeMate, hunting for easy playlist download alternatives",
       "signals": 3,
@@ -172,7 +163,7 @@
       "url": "https://gapmine.com/opportunities/2026-07-03/playlist-downloader"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "opportunity": "WordPress Website Builder",
       "who_is_asking": "Wordpress site builders stuck on creating a site for their plumbing business",
       "signals": 2,
@@ -181,13 +172,22 @@
       "url": "https://gapmine.com/opportunities/2026-07-02/wordpress-site-builder"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "opportunity": "Exam Planning Assistant",
       "who_is_asking": "Creator students questioning AI study planning tools' usefulness for JEE/NEET prep",
       "signals": 2,
       "sources": 2,
       "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-07-02/ai-study-planning-tool"
+    },
+    {
+      "rank": 20,
+      "opportunity": "Personalized media tracker",
+      "who_is_asking": "iOS App Store creators stuck on tracking media progress across TV, movies, anime, music, and games",
+      "signals": 3,
+      "sources": 1,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-28/media-tracking-app"
     },
     {
       "rank": 21,
@@ -200,15 +200,6 @@
     },
     {
       "rank": 22,
-      "opportunity": "Personalized media tracker",
-      "who_is_asking": "iOS App Store creators stuck on tracking media progress across TV, movies, anime, music, and games",
-      "signals": 3,
-      "sources": 1,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-28/media-tracking-app"
-    },
-    {
-      "rank": 23,
       "opportunity": "Newsletter Leaderboard",
       "who_is_asking": "Substack creators stuck on discovery, dominated by huge names, seeking engagement-based leaderboard alternatives",
       "signals": 2,
@@ -217,7 +208,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-30/newsletter-discovery"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "opportunity": "Secure Keyboard App",
       "who_is_asking": "",
       "signals": 2,
@@ -226,13 +217,22 @@
       "url": "https://gapmine.com/opportunities/2026-07-02/safest-keyboard-alternative"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "opportunity": "Daily Task Planner",
       "who_is_asking": "",
       "signals": 2,
       "sources": 1,
       "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-07-03/task-calendar-drag-drop"
+    },
+    {
+      "rank": 25,
+      "opportunity": "Website Promotion Tool",
+      "who_is_asking": "Reddit creators stuck on marketing discussion websites with A/B options",
+      "signals": 2,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-09/website-marketing-tool"
     }
   ]
 }
