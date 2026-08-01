@@ -1,80 +1,62 @@
 {
   "sector": "nocode",
   "label": "No-Code and Automation",
-  "generated_at": "2026-07-25",
-  "total_gaps": 45,
-  "total_signals": 277,
-  "total_sources": 132,
+  "generated_at": "2026-08-01",
+  "total_gaps": 44,
+  "total_signals": 222,
+  "total_sources": 113,
   "methodology": "Gaps are clusters of real builder conversations mined from Reddit, Hacker News, Product Hunt and GitHub, graded by verifiable evidence. No AI-invented ideas.",
   "canonical_report": "https://gapmine.com/blog/state-of-nocode-gaps-2026",
   "license": "CC-BY-4.0 — free to cite with attribution to GapMine (https://gapmine.com)",
   "opportunities": [
     {
       "rank": 1,
-      "opportunity": "Notion Automation Tool",
-      "who_is_asking": "Notion founders can't automate tasks across apps, stuck on siloed AI limitations",
-      "signals": 8,
-      "sources": 3,
-      "evidence": "validated",
-      "url": "https://gapmine.com/opportunities/2026-07-03/notion-ai-pipeline-integration"
+      "opportunity": "Searchable Database Tool",
+      "who_is_asking": "Airtable users stuck on creating interactive searchable databases without data exposure",
+      "signals": 5,
+      "sources": 4,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-06-10/airtable-searchable-database"
     },
     {
       "rank": 2,
-      "opportunity": "Notion Page Sharer",
-      "who_is_asking": "Notion users losing project structure, drowning in chaotic workspaces and disorganized databases",
-      "signals": 5,
-      "sources": 2,
-      "evidence": "validated",
-      "url": "https://gapmine.com/opportunities/2026-07-02/notion-alternative-for-read-only-sharing"
-    },
-    {
-      "rank": 3,
-      "opportunity": "Airtable Replacement Tools",
-      "who_is_asking": "Small-team no-code builders escaping Airtable's row limits and feature paywalls for open-source relational databases · cite signal#1,2,3",
-      "signals": 4,
-      "sources": 3,
-      "evidence": "validated",
-      "url": "https://gapmine.com/opportunities/2026-05-31/airtable-alternative-platform"
-    },
-    {
-      "rank": 4,
-      "opportunity": "Zapier Error Debugging",
+      "opportunity": "Zapier Code Step Debugger",
       "who_is_asking": "Nocode RevOps teams losing reliability with Zapier, hunting for alternatives due to silent failures",
       "signals": 4,
       "sources": 1,
-      "evidence": "corroborated",
+      "evidence": "early",
       "url": "https://gapmine.com/opportunities/2026-06-11/zapier-code-step-debugging"
     },
     {
-      "rank": 5,
-      "opportunity": "Bubble Plugin Editor",
+      "rank": 3,
+      "opportunity": "Bubble Plugin Customization",
       "who_is_asking": "Bubble users stuck on customizing ECSR plugin for page-based whiteboard and photo insertion",
       "signals": 11,
       "sources": 4,
-      "evidence": "validated",
+      "evidence": "early",
       "url": "https://gapmine.com/opportunities/2026-07-16/bubble-plugin-customization"
     },
     {
-      "rank": 6,
-      "opportunity": "Automated PDF Generator",
-      "who_is_asking": "Nocode users stuck on generating PDFs from Zapier with dynamic fields and empty attachments",
+      "rank": 4,
+      "opportunity": "Notion AI Integration Tool",
+      "who_is_asking": "Notion users losing time with third-party AI models, wanting native integration",
       "signals": 9,
-      "sources": 2,
-      "evidence": "validated",
-      "url": "https://gapmine.com/opportunities/2026-07-02/pdf-generation-automation"
-    },
-    {
-      "rank": 7,
-      "opportunity": "Launch Campaigns without Marketing Expertise",
-      "who_is_asking": "Nocode builders stuck on launching first email campaign without marketing expertise",
-      "signals": 4,
       "sources": 3,
-      "evidence": "validated",
-      "url": "https://gapmine.com/opportunities/2026-06-23/b2b-email-marketing-outreach"
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-03/notion-ai-pipeline-integration"
     },
     {
-      "rank": 8,
-      "opportunity": "Share Obsidian Vaults without Leaving Notes",
+      "rank": 5,
+      "opportunity": "Read Only Notion Alternative",
+      "who_is_asking": "Notion users losing project structure, drowning in chaotic workspaces and disorganized databases",
+      "signals": 5,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-02/notion-alternative-for-read-only-sharing"
+    },
+    {
+      "rank": 6,
+      "opportunity": "Obsidian Self Hosted Publishing",
       "who_is_asking": "Obsidian users stuck on publishing notes without Git, seeking self-hosted alternatives",
       "signals": 3,
       "sources": 2,
@@ -82,7 +64,52 @@
       "url": "https://gapmine.com/opportunities/2026-06-22/obsidian-vault-publishing-platform"
     },
     {
+      "rank": 7,
+      "opportunity": "No Code Workflow Automation",
+      "who_is_asking": "Nocode users stuck on vendor lock-in, losing workflow control with no-code tools",
+      "signals": 3,
+      "sources": 2,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-07/nocode-app-workflow-automation"
+    },
+    {
+      "rank": 8,
+      "opportunity": "Airtable Alternative Platform",
+      "who_is_asking": "Small-team no-code builders escaping Airtable's row limits and feature paywalls for open-source relational databases · cite signal#1,2,3",
+      "signals": 2,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-05-31/airtable-alternative-platform"
+    },
+    {
       "rank": 9,
+      "opportunity": "Obsidian tools for Notion users",
+      "who_is_asking": "Obsidian users abandoning it due to complexity, seeking simpler alternatives for notes and task management",
+      "signals": 4,
+      "sources": 1,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-31/obsidian-for-notion-users"
+    },
+    {
+      "rank": 10,
+      "opportunity": "WordPress Plugin Store",
+      "who_is_asking": "WordPress developers hunting for a plugin, lacking sufficient catalog options",
+      "signals": 2,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-25/wordpress-plugin"
+    },
+    {
+      "rank": 11,
+      "opportunity": "Launch Campaigns without Marketing Expertise",
+      "who_is_asking": "Nocode builders stuck on launching first email campaign without marketing expertise",
+      "signals": 4,
+      "sources": 3,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-23/b2b-email-marketing-outreach"
+    },
+    {
+      "rank": 12,
       "opportunity": "WordPress To AI Converter",
       "who_is_asking": "WordPress developers stuck on replicating sites 1:1 into AI-first codebases with Claude Code",
       "signals": 3,
@@ -91,148 +118,121 @@
       "url": "https://gapmine.com/opportunities/2026-07-02/wordpress-to-ai-codebase-converter"
     },
     {
-      "rank": 10,
-      "opportunity": "AI Note Organizer",
-      "who_is_asking": "Obsidian users stuck on auto-syncing AI chats and social media into one connected note graph",
-      "signals": 2,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-08/ai-note-auto-organization"
-    },
-    {
-      "rank": 11,
+      "rank": 13,
       "opportunity": "Handwriting OCR Without Autocorrect",
       "who_is_asking": "Obsidian users abandoning Evernote, hunting handwriting-to-text apps without autocorrect",
       "signals": 4,
       "sources": 2,
-      "evidence": "validated",
+      "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-06-23/handwriting-to-text-preserving-exact-words"
     },
     {
-      "rank": 12,
+      "rank": 14,
+      "opportunity": "Home Automation Hub",
+      "who_is_asking": "HomeAssistant users stuck on tracking device state changes within a timed duration",
+      "signals": 7,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-29/home-automation"
+    },
+    {
+      "rank": 15,
       "opportunity": "Airtable PDF Generator",
       "who_is_asking": "Airtable users stuck on generating PDFs with linked records and formatting issues",
       "signals": 3,
       "sources": 3,
-      "evidence": "corroborated",
+      "evidence": "early",
       "url": "https://gapmine.com/opportunities/2026-06-16/pdf-generation-linked-records"
     },
     {
-      "rank": 13,
-      "opportunity": "Automated Workflow for Teams",
-      "who_is_asking": "Nocode users stuck on vendor lock-in, losing workflow control with limited export options",
+      "rank": 16,
+      "opportunity": "No Code Email Client",
+      "who_is_asking": "Notion users losing email integration, hunting for a Gmail-Notion database connector",
       "signals": 3,
       "sources": 2,
       "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-07/nocode-app-workflow-automation"
+      "url": "https://gapmine.com/opportunities/2026-06-28/email-client-alternative"
     },
     {
-      "rank": 14,
-      "opportunity": "Obsidian Org Mode Support",
-      "who_is_asking": "Obsidian users stuck on markdown, wanting orgmode features like tables and todos",
+      "rank": 17,
+      "opportunity": "N8n Workflow Migration Tool",
+      "who_is_asking": "n8n self-host users stuck on manually copying workflows between environments",
+      "signals": 3,
+      "sources": 2,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-07/workflow-migration-tool"
+    },
+    {
+      "rank": 18,
+      "opportunity": "Notion Database Sharer",
+      "who_is_asking": "Notion developers stuck on sharing filtered database versions, hiding columns or rows.",
       "signals": 2,
       "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-20/obsidian-orgmode-support"
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-06-16/notion-filtered-database-sharing"
     },
     {
-      "rank": 15,
+      "rank": 19,
       "opportunity": "Smart Home Automation Hub",
       "who_is_asking": "Home Assistant users stuck on long lists of entities, wanting a unified wall interface",
       "signals": 4,
       "sources": 3,
-      "evidence": "validated",
+      "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-07-20/home-automation-nuc"
     },
     {
-      "rank": 16,
+      "rank": 20,
+      "opportunity": "Home Power Monitor",
+      "who_is_asking": "Home Assistant users stuck on reliability and remote support for commercial smart home automation",
+      "signals": 3,
+      "sources": 2,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-02/home-automation-platform"
+    },
+    {
+      "rank": 21,
       "opportunity": "Media Tracker Software",
       "who_is_asking": "Obsidian users losing media tracking information, hunting for a simple app replacement",
-      "signals": 2,
-      "sources": 2,
+      "signals": 3,
+      "sources": 3,
       "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-07-16/media-tracker"
     },
     {
-      "rank": 17,
-      "opportunity": "No Code Email Client",
-      "who_is_asking": "Notion users losing email integration, hunting for a Gmail-Notion database connector",
-      "signals": 1,
-      "sources": 1,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-06-28/email-client-alternative"
-    },
-    {
-      "rank": 18,
+      "rank": 22,
       "opportunity": "App Consolidation Tool",
-      "who_is_asking": "Nocode founders drowning in 10-30 apps, losing work in manual relay between tools",
+      "who_is_asking": "Nocode founders stuck with 10-30 apps, losing work in manual handoffs between tools",
       "signals": 2,
       "sources": 2,
       "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-07-07/workflow-app-consolidation-platform"
     },
     {
-      "rank": 19,
-      "opportunity": "AI App Design to Code",
-      "who_is_asking": "Retool app builders stuck on tedious AI coding workflows, seeking API-based automation",
-      "signals": 58,
-      "sources": 14,
-      "evidence": "validated",
-      "url": "https://gapmine.com/opportunities/2026-06-11/ai-powered-app-builder-tool"
-    },
-    {
-      "rank": 20,
-      "opportunity": "Airtable Google Sheets Sync",
-      "who_is_asking": "Airtable users stuck on one-way sync tools, wanting real-time 2-way sync with no helper columns",
-      "signals": 3,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-24/airtable-sheets-two-way-sync"
-    },
-    {
-      "rank": 21,
-      "opportunity": "Smart Home Automation Hub",
-      "who_is_asking": "Home Assistant users stuck on reliability and remote support for commercial smart home automation",
-      "signals": 2,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-02/home-automation-platform"
-    },
-    {
-      "rank": 22,
-      "opportunity": "Airtable Forms for WordPress",
-      "who_is_asking": "WordPress users stuck on connecting intake forms to Airtable via webhooks",
-      "signals": 2,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-03/airtable-wordpress-form-integration"
-    },
-    {
       "rank": 23,
-      "opportunity": "Bubble Booking System Integration",
-      "who_is_asking": "Bubble users stuck on integrating a booking system with dynamic seating limits",
-      "signals": 4,
-      "sources": 3,
-      "evidence": "validated",
-      "url": "https://gapmine.com/opportunities/2026-06-21/bubble-meal-seat-booking-system"
+      "opportunity": "Obsidian Org Mode Support",
+      "who_is_asking": "Obsidian users stuck on markdown, wanting orgmode features like tables and todos",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-06-20/obsidian-orgmode-support"
     },
     {
       "rank": 24,
-      "opportunity": "Auto Ecommerce Price Manager",
-      "who_is_asking": "WooCommerce sellers stuck on manual price updates, wanting automated CJ price manager",
-      "signals": 2,
-      "sources": 2,
+      "opportunity": "Zapier PDF Generator",
+      "who_is_asking": "Zapier users stuck on generating PDFs with dynamic fields, getting empty or garbled attachments",
+      "signals": 10,
+      "sources": 3,
       "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-07/ecommerce-price-updates"
+      "url": "https://gapmine.com/opportunities/2026-07-02/pdf-generation-automation"
     },
     {
       "rank": 25,
-      "opportunity": "Searchable Web Database",
-      "who_is_asking": "Airtable users stuck on creating interactive searchable databases without data exposure",
-      "signals": 5,
-      "sources": 4,
-      "evidence": "validated",
-      "url": "https://gapmine.com/opportunities/2026-06-10/airtable-searchable-database"
+      "opportunity": "AI App Design to Code",
+      "who_is_asking": "Retool app builders stuck on tedious AI coding workflows, seeking API-based automation",
+      "signals": 4,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-11/ai-powered-app-builder-tool"
     }
   ]
 }
