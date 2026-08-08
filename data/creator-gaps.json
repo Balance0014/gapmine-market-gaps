@@ -1,16 +1,61 @@
 {
   "sector": "creator",
   "label": "Creator Economy",
-  "generated_at": "2026-08-01",
-  "total_gaps": 38,
-  "total_signals": 205,
-  "total_sources": 97,
+  "generated_at": "2026-08-08",
+  "total_gaps": 45,
+  "total_signals": 256,
+  "total_sources": 110,
   "methodology": "Gaps are clusters of real builder conversations mined from Reddit, Hacker News, Product Hunt and GitHub, graded by verifiable evidence. No AI-invented ideas.",
   "canonical_report": "https://gapmine.com/blog/state-of-creator-gaps-2026",
   "license": "CC-BY-4.0 — free to cite with attribution to GapMine (https://gapmine.com)",
   "opportunities": [
     {
       "rank": 1,
+      "opportunity": "Podcast Production Assistant",
+      "who_is_asking": "creator-podcast (3)",
+      "signals": 5,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-03/podcast-producer-hiring"
+    },
+    {
+      "rank": 2,
+      "opportunity": "Flexible Podcast Hosting",
+      "who_is_asking": "Podcast creators stuck on Buzzsprout, seeking flexible hosting with API or webhooks support",
+      "signals": 4,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-23/podcast-hosting-ad-integration"
+    },
+    {
+      "rank": 3,
+      "opportunity": "Podcast Membership App",
+      "who_is_asking": "Podcast creators losing navigation functionality, hunting for alternative apps",
+      "signals": 3,
+      "sources": 3,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-25/podcast-app"
+    },
+    {
+      "rank": 4,
+      "opportunity": "Community Customer Finder",
+      "who_is_asking": "",
+      "signals": 6,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-05-06/creator-content-discovery"
+    },
+    {
+      "rank": 5,
+      "opportunity": "Spotify Alarm Player",
+      "who_is_asking": "Spotify creators stuck on integrating playlists into shortcuts",
+      "signals": 5,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-07/play-specific-song-alarm"
+    },
+    {
+      "rank": 6,
       "opportunity": "Substack Social Icons",
       "who_is_asking": "Substack creators stuck on growing their community, seeking a hub to connect and collaborate",
       "signals": 4,
@@ -19,17 +64,17 @@
       "url": "https://gapmine.com/opportunities/2026-07-03/substack-social-icons"
     },
     {
-      "rank": 2,
-      "opportunity": "Podcast Membership App",
-      "who_is_asking": "Podcast creators losing navigation functionality, hunting for alternative apps",
-      "signals": 3,
+      "rank": 7,
+      "opportunity": "Portable Video Travel Tripod",
+      "who_is_asking": "Reddit creators hunting a lightweight video travel tripod for Sony A7 cameras",
+      "signals": 4,
       "sources": 2,
       "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-25/podcast-app"
+      "url": "https://gapmine.com/opportunities/2026-08-04/travel-video-tripod"
     },
     {
-      "rank": 3,
-      "opportunity": "Portable Monitor Recommendation",
+      "rank": 8,
+      "opportunity": "Portable Monitor Recommendations",
       "who_is_asking": "Remote creators hunting for portable monitors under $100 for flexible work setups",
       "signals": 2,
       "sources": 2,
@@ -37,61 +82,34 @@
       "url": "https://gapmine.com/opportunities/2026-07-02/portable-monitor"
     },
     {
-      "rank": 4,
-      "opportunity": "Spotify Alarm Player",
-      "who_is_asking": "Spotify creators stuck on integrating playlists into shortcuts",
-      "signals": 5,
-      "sources": 2,
-      "evidence": "validated",
-      "url": "https://gapmine.com/opportunities/2026-07-07/play-specific-song-alarm"
-    },
-    {
-      "rank": 5,
-      "opportunity": "YouTube Video Downloader",
-      "who_is_asking": "MacOS YouTube creators can't afford YouTube's sophisticated download restrictions",
-      "signals": 10,
-      "sources": 5,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-06/youtube-video-download-tool"
-    },
-    {
-      "rank": 6,
-      "opportunity": "Private Browser Design Tools",
-      "who_is_asking": "Canva users wanting offline design tools with ready-made templates and decorative assets",
-      "signals": 3,
-      "sources": 2,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-06-24/privacy-first-design-tool"
-    },
-    {
-      "rank": 7,
+      "rank": 9,
       "opportunity": "Stem Separation Software",
       "who_is_asking": "Creator software users stuck on stem separation, seeking open-source alternative to AudioShake",
-      "signals": 2,
-      "sources": 2,
-      "evidence": "early",
+      "signals": 3,
+      "sources": 3,
+      "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-07-02/stem-separation-tool"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "opportunity": "Spotify Alternative Music Platform",
       "who_is_asking": "Spotify creators can't afford premium, hunting for alternative music platforms",
-      "signals": 2,
+      "signals": 3,
       "sources": 2,
-      "evidence": "early",
+      "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-07-06/music-streaming-alternative"
     },
     {
-      "rank": 9,
-      "opportunity": "Thumbnail Creation Tool",
-      "who_is_asking": "YouTube creators losing Canva premium value, hunting for cheaper background removal tools",
-      "signals": 2,
+      "rank": 11,
+      "opportunity": "AI Video Editing Effects",
+      "who_is_asking": "YouTubers testing AI upscaling on archived footage, uncertain about real-world ROI versus basic sharpening. · cite signal#1",
+      "signals": 7,
       "sources": 2,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-14/thumbnail-maker"
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-04-24/video-editing-ai-effects"
     },
     {
-      "rank": 10,
+      "rank": 12,
       "opportunity": "Thoughtful Relationship Reminder",
       "who_is_asking": "Solopreneurs losing personal relationship details, wanting a private memory box for friends and family",
       "signals": 5,
@@ -100,16 +118,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-19/relationship-reminder-app"
     },
     {
-      "rank": 11,
-      "opportunity": "Affiliate Program Finder",
-      "who_is_asking": "YouTube creators hunting for better affiliate programs than Amazon Affiliates",
-      "signals": 3,
-      "sources": 1,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-30/creator-affiliate-program-discovery"
-    },
-    {
-      "rank": 12,
+      "rank": 13,
       "opportunity": "Audio Drama Studio",
       "who_is_asking": "Audio creators stuck on producing audio dramas with limited crew and budget",
       "signals": 3,
@@ -118,79 +127,16 @@
       "url": "https://gapmine.com/opportunities/2026-07-06/audio-drama-creation"
     },
     {
-      "rank": 13,
-      "opportunity": "AI Video Editing Effects",
-      "who_is_asking": "YouTubers testing AI upscaling on archived footage, uncertain about real-world ROI versus basic sharpening. · cite signal#1",
-      "signals": 6,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-18/video-editing-ai-effects"
-    },
-    {
       "rank": 14,
-      "opportunity": "Podcast Publishing Software",
-      "who_is_asking": "Reddit creators stuck on quick podcast editing tools",
-      "signals": 6,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-03/apple-podcast-submission-process"
-    },
-    {
-      "rank": 15,
-      "opportunity": "Podcast Recording Tool",
-      "who_is_asking": "Podcast creators stuck on microphone setup for multi-city recordings",
-      "signals": 4,
-      "sources": 3,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-21/podcast-recording-alternative"
-    },
-    {
-      "rank": 16,
-      "opportunity": "AI Phone Assistant",
-      "who_is_asking": "Telegram users stuck on multiple mobile apps, hunting for AI personal assistant integration",
-      "signals": 4,
-      "sources": 3,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-12/ai-personal-assistant"
-    },
-    {
-      "rank": 17,
-      "opportunity": "Easy YouTube Playlist Saver",
-      "who_is_asking": "YouTube creators losing TubeMate, hunting for easy playlist download alternatives",
-      "signals": 3,
-      "sources": 1,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-03/playlist-downloader"
-    },
-    {
-      "rank": 18,
       "opportunity": "Youtube Video Editing Services",
       "who_is_asking": "YouTube creators stuck on video editing, hunting for reliable and affordable editors",
-      "signals": 26,
-      "sources": 7,
-      "evidence": "validated",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-06-11/youtube-video-editing-services"
     },
     {
-      "rank": 19,
-      "opportunity": "Golf Swing Tracker",
-      "who_is_asking": "Apple Watch golfers priced out of Arccos, hunting for affordable GPS shot tracking",
-      "signals": 4,
-      "sources": 2,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-06-10/golf-swing-tracking"
-    },
-    {
-      "rank": 20,
-      "opportunity": "Podcast Hosting with Ad Integration",
-      "who_is_asking": "Podcast creators stuck on Buzzsprout, seeking flexible hosting with API or webhooks support",
-      "signals": 4,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-23/podcast-hosting-ad-integration"
-    },
-    {
-      "rank": 21,
+      "rank": 15,
       "opportunity": "Easy YouTube audio extractor",
       "who_is_asking": "YouTube creators stuck on extracting audio from age-restricted videos",
       "signals": 2,
@@ -199,16 +145,52 @@
       "url": "https://gapmine.com/opportunities/2026-07-20/youtube-mp3-converter"
     },
     {
-      "rank": 22,
-      "opportunity": "Twitch Video Converter",
-      "who_is_asking": "Tiktok creators drowning in daily clip editing, wanting automation for 7 weekly clips",
-      "signals": 10,
-      "sources": 3,
-      "evidence": "validated",
-      "url": "https://gapmine.com/opportunities/2026-05-29/twitch-vod-clip-automation"
+      "rank": 16,
+      "opportunity": "YouTube Long-Form Growth",
+      "who_is_asking": "YouTube creators losing views, stuck with low CTR despite similar thumbnails",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-23/long-form-youtube-production"
     },
     {
-      "rank": 23,
+      "rank": 17,
+      "opportunity": "Golf Swing Tracker",
+      "who_is_asking": "Apple Watch golfers priced out of Arccos, hunting for affordable GPS shot tracking",
+      "signals": 4,
+      "sources": 2,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-06-10/golf-swing-tracking"
+    },
+    {
+      "rank": 18,
+      "opportunity": "Podcast Recording Tool",
+      "who_is_asking": "Podcast creators stuck on microphone setup for multi-city recordings",
+      "signals": 4,
+      "sources": 3,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-21/podcast-recording-alternative"
+    },
+    {
+      "rank": 19,
+      "opportunity": "Affiliate Program Finder",
+      "who_is_asking": "YouTube creators hunting for better affiliate programs than Amazon Affiliates",
+      "signals": 3,
+      "sources": 1,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-30/creator-affiliate-program-discovery"
+    },
+    {
+      "rank": 20,
+      "opportunity": "Easy YouTube Playlist Saver",
+      "who_is_asking": "YouTube creators can't download playlists with TubeMate, hunting for alternative apps",
+      "signals": 3,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-03/playlist-downloader"
+    },
+    {
+      "rank": 21,
       "opportunity": "Private Android Keyboard",
       "who_is_asking": "Android users can't afford AI-driven keyboards, hunting for safe alternatives",
       "signals": 2,
@@ -217,22 +199,40 @@
       "url": "https://gapmine.com/opportunities/2026-07-02/safest-keyboard-alternative"
     },
     {
-      "rank": 24,
-      "opportunity": "Streaming Server Software",
-      "who_is_asking": "Twitch streamers stuck on multistreaming setup with TikTok and OBS",
-      "signals": 19,
-      "sources": 3,
-      "evidence": "validated",
-      "url": "https://gapmine.com/opportunities/2026-06-24/twitch-feed-intermediary-server"
+      "rank": 22,
+      "opportunity": "Easy Newsletter Creation",
+      "who_is_asking": "Substack creators priced out of 10% earnings cut, hunting for alternative platforms",
+      "signals": 2,
+      "sources": 1,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-05-06/free-newsletter-starting"
     },
     {
-      "rank": 25,
+      "rank": 23,
+      "opportunity": "Cooking video to recipe converter",
+      "who_is_asking": "iPhone users stuck on manually extracting recipes from cooking videos",
+      "signals": 2,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-08-04/cooking-video-recipe-tool"
+    },
+    {
+      "rank": 24,
       "opportunity": "Voice Controlled Task Manager",
       "who_is_asking": "Solopreneurs losing task management reliability, hunting voice-first system with filtering and reminders",
       "signals": 2,
       "sources": 2,
       "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-07-04/voice-first-task-delegation"
+    },
+    {
+      "rank": 25,
+      "opportunity": "Streaming Server Software",
+      "who_is_asking": "Twitch streamers stuck on multistreaming setup with TikTok and OBS",
+      "signals": 19,
+      "sources": 3,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-24/twitch-feed-intermediary-server"
     }
   ]
 }
