@@ -1,35 +1,44 @@
 {
   "sector": "tech",
   "label": "Developer and Tech Tools",
-  "generated_at": "2026-08-08",
-  "total_gaps": 109,
-  "total_signals": 964,
-  "total_sources": 310,
+  "generated_at": "2026-08-15",
+  "total_gaps": 123,
+  "total_signals": 1948,
+  "total_sources": 389,
   "methodology": "Gaps are clusters of real builder conversations mined from Reddit, Hacker News, Product Hunt and GitHub, graded by verifiable evidence. No AI-invented ideas.",
   "canonical_report": "https://gapmine.com/blog/state-of-tech-gaps-2026",
   "license": "CC-BY-4.0 — free to cite with attribution to GapMine (https://gapmine.com)",
   "opportunities": [
     {
       "rank": 1,
-      "opportunity": "B2B SaaS Email Strategy",
+      "opportunity": "SaaS Marketing Strategy",
       "who_is_asking": "founder (1)",
-      "signals": 71,
+      "signals": 83,
       "sources": 6,
       "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-05-05/b2b-saas-advertising-strategy"
     },
     {
       "rank": 2,
-      "opportunity": "Legal AI For Small Firms",
-      "who_is_asking": "Legal tech founders stuck on building AI apps like Harvey/Legora for Indian market",
-      "signals": 22,
-      "sources": 7,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-10/legal-ai-for-small-transaction-firms"
+      "opportunity": "AWS Cost Optimizer",
+      "who_is_asking": "AWS Lambda users losing money, priced out of AWS due to growing background job costs",
+      "signals": 21,
+      "sources": 4,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-06-09/aws-cost-optimization"
     },
     {
       "rank": 3,
-      "opportunity": "Development Multitool Library",
+      "opportunity": "SaaS Tool Discovery Platform",
+      "who_is_asking": "Support engineers stuck on SaaS discovery for mid-market clients with 94+ unseen apps",
+      "signals": 21,
+      "sources": 4,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-24/saas-tool-shadow-it-discovery"
+    },
+    {
+      "rank": 4,
+      "opportunity": "Multitool For Development",
       "who_is_asking": "Webdev users stuck on multiple tools like Postman, Dbeaver, and Docker, seeking a development multitool",
       "signals": 6,
       "sources": 5,
@@ -37,88 +46,7 @@
       "url": "https://gapmine.com/opportunities/2026-07-02/multitool-for-development"
     },
     {
-      "rank": 4,
-      "opportunity": "Self Hosted AWS Cost Cutter",
-      "who_is_asking": "AWS Lambda users losing money, priced out of AWS due to growing background job costs",
-      "signals": 13,
-      "sources": 4,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-06-09/aws-cost-optimization"
-    },
-    {
       "rank": 5,
-      "opportunity": "SaaS Tool Discovery Platform",
-      "who_is_asking": "Support engineers stuck on SaaS discovery for mid-market clients with 94+ unseen apps",
-      "signals": 12,
-      "sources": 3,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-24/saas-tool-shadow-it-discovery"
-    },
-    {
-      "rank": 6,
-      "opportunity": "AI Financial Action Controller",
-      "who_is_asking": "SaaS founders/operators stuck on allowing AI agents to take real financial actions",
-      "signals": 9,
-      "sources": 5,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-10/ai-agent-financial-action-controls"
-    },
-    {
-      "rank": 7,
-      "opportunity": "Self Hosted Container Security",
-      "who_is_asking": "Debian Docker users wondering if container isolation is enough for security",
-      "signals": 3,
-      "sources": 2,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-14/container-security"
-    },
-    {
-      "rank": 8,
-      "opportunity": "WordPress Security Plugin",
-      "who_is_asking": "WordPress users priced out of iThemes Security Pro, hunting affordable security alternatives",
-      "signals": 23,
-      "sources": 8,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-26/wordpress-security-plugin-alternative"
-    },
-    {
-      "rank": 9,
-      "opportunity": "DIY Nas Cloud Sync Tool",
-      "who_is_asking": "TrueNAS users stuck on reliable 10GbE setup with Minisforum N5 Air/Pro",
-      "signals": 6,
-      "sources": 3,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-23/nas-cloud-sync-tool"
-    },
-    {
-      "rank": 10,
-      "opportunity": "Self Hosted Finance App",
-      "who_is_asking": "",
-      "signals": 4,
-      "sources": 3,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-04-23/personal-finance-tracking-app"
-    },
-    {
-      "rank": 11,
-      "opportunity": "Local LLM Coding Cost Reduction",
-      "who_is_asking": "Developers can't afford large LLMs, seeking smaller models like Qwen3.8",
-      "signals": 4,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-24/local-llm-coding-cost-reduction"
-    },
-    {
-      "rank": 12,
-      "opportunity": "Self Hosted GitHub Actions Runner",
-      "who_is_asking": "GitHub Actions users priced out of GHA-hosted, hunting cheaper self-hosted runners on Lambda MicroVMs",
-      "signals": 4,
-      "sources": 2,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-04/github-actions"
-    },
-    {
-      "rank": 13,
       "opportunity": "Self Hosted App Directory",
       "who_is_asking": "Selfhosted app users hunting for human-curated lists of reliable tools",
       "signals": 4,
@@ -127,16 +55,70 @@
       "url": "https://gapmine.com/opportunities/2026-07-19/self-hosted-application-discovery"
     },
     {
-      "rank": 14,
-      "opportunity": "Minimalist PDF Reader",
-      "who_is_asking": "Windows users losing focus due to cluttered PDF readers, seeking minimalist alternatives",
-      "signals": 3,
-      "sources": 3,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-07/minimalist-pdf-reader"
+      "rank": 6,
+      "opportunity": "AI Financial Action Controller",
+      "who_is_asking": "SaaS founders/operators stuck on allowing AI agents to take real financial actions",
+      "signals": 11,
+      "sources": 5,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-10/ai-agent-financial-action-controls"
     },
     {
-      "rank": 15,
+      "rank": 7,
+      "opportunity": "NAS Cloud Sync Tool",
+      "who_is_asking": "TrueNAS users stuck on reliable 10GbE setup with Minisforum N5 Air/Pro",
+      "signals": 6,
+      "sources": 3,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-23/nas-cloud-sync-tool"
+    },
+    {
+      "rank": 8,
+      "opportunity": "Self Hosted Database Alternative",
+      "who_is_asking": "Backend devs building Supabase apps struggle to understand and retain user behavior without native analytics · cite signal#1",
+      "signals": 5,
+      "sources": 3,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-23/backend-database-alternative"
+    },
+    {
+      "rank": 9,
+      "opportunity": "Multilingual Site Manager",
+      "who_is_asking": "WPML users stuck on large multilingual sites with 20+ languages, losing performance",
+      "signals": 3,
+      "sources": 1,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-28/multilingual-site-management"
+    },
+    {
+      "rank": 10,
+      "opportunity": "Self Hosted Container Security",
+      "who_is_asking": "Debian Docker users wondering if container isolation is enough for security",
+      "signals": 3,
+      "sources": 2,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-14/container-security"
+    },
+    {
+      "rank": 11,
+      "opportunity": "WordPress Security Plugin",
+      "who_is_asking": "WordPress users priced out of iThemes Security Pro, hunting affordable security alternatives",
+      "signals": 26,
+      "sources": 9,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-26/wordpress-security-plugin-alternative"
+    },
+    {
+      "rank": 12,
+      "opportunity": "Self Hosted GitHub Actions Runner",
+      "who_is_asking": "GitHub Actions users priced out of GHA-hosted, hunting cheaper self-hosted runners on Lambda MicroVMs",
+      "signals": 3,
+      "sources": 2,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-04/github-actions"
+    },
+    {
+      "rank": 13,
       "opportunity": "Affordable AI Model Deployment",
       "who_is_asking": "Qwen 3.6 developers can't afford speculative decoding, seeking cheap deployment at 5-10 tok/s",
       "signals": 2,
@@ -145,25 +127,25 @@
       "url": "https://gapmine.com/opportunities/2026-07-08/cheap-model-running"
     },
     {
-      "rank": 16,
-      "opportunity": "Win Loss Analyzer",
-      "who_is_asking": "Series-A B2B martech RevOps leads losing deals, hunting efficient win/loss analysis workflow",
-      "signals": 2,
-      "sources": 1,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-02/sales-analysis-tool"
-    },
-    {
-      "rank": 17,
-      "opportunity": "Invoice Automation with Sheets",
-      "who_is_asking": "nocoder (1)",
-      "signals": 28,
-      "sources": 10,
+      "rank": 14,
+      "opportunity": "SaaS Project Validation Tool",
+      "who_is_asking": "",
+      "signals": 54,
+      "sources": 8,
       "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-04-29/invoice-automation-spreadsheet-integration"
+      "url": "https://gapmine.com/opportunities/2026-04-22/saas-idea-validation"
     },
     {
-      "rank": 18,
+      "rank": 15,
+      "opportunity": "Cloudflare Tunnel Encryption",
+      "who_is_asking": "Cloudflare users needing encryption for tunneled traffic to prevent data exposure",
+      "signals": 4,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-08-14/cloudflare-tunnel-encryption"
+    },
+    {
+      "rank": 16,
       "opportunity": "Code Update Docs",
       "who_is_asking": "Claude developers stuck on automating end user docs updates from code changes",
       "signals": 3,
@@ -172,7 +154,7 @@
       "url": "https://gapmine.com/opportunities/2026-05-28/team-documentation-platform"
     },
     {
-      "rank": 19,
+      "rank": 17,
       "opportunity": "Reliable 10G Router",
       "who_is_asking": "TP-Link users hunting for a trustworthy 10G router brand with set-and-forget control",
       "signals": 3,
@@ -181,7 +163,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-24/trustworthy-10g-router"
     },
     {
-      "rank": 20,
+      "rank": 18,
       "opportunity": "AI Model GPU Configurator",
       "who_is_asking": "Dell Precision developers stuck on configuring dual 3060 GPUs for LLM workloads",
       "signals": 3,
@@ -190,7 +172,7 @@
       "url": "https://gapmine.com/opportunities/2026-07-01/gpu-configuration-optimizer"
     },
     {
-      "rank": 21,
+      "rank": 19,
       "opportunity": "Database Migration Tester",
       "who_is_asking": "SaaS developers losing data with AI-written DB migrations, hunting safety nets",
       "signals": 2,
@@ -199,16 +181,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-18/database-migration-safety-testing"
     },
     {
-      "rank": 22,
-      "opportunity": "Streamlined Remote KVM Setup for Hosting",
-      "who_is_asking": "Tech developers can't afford custom wiring for remote KVM setups",
-      "signals": 2,
-      "sources": 2,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-06-25/remote-kvm-installation-service"
-    },
-    {
-      "rank": 23,
+      "rank": 20,
       "opportunity": "Chess Engine Optimizer",
       "who_is_asking": "Duolingo Chess developers stuck on board recognition with Python/Stockfish bot",
       "signals": 2,
@@ -217,22 +190,49 @@
       "url": "https://gapmine.com/opportunities/2026-07-02/chess-bot-optimizer"
     },
     {
-      "rank": 24,
-      "opportunity": "Firebase Alternative Database",
-      "who_is_asking": "Backend devs building Supabase apps struggle to understand and retain user behavior without native analytics · cite signal#1",
-      "signals": 4,
-      "sources": 2,
+      "rank": 21,
+      "opportunity": "Win Loss Analyzer",
+      "who_is_asking": "Series-A B2B martech RevOps leads losing deals, hunting efficient win/loss analysis workflow",
+      "signals": 2,
+      "sources": 1,
       "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-06-23/backend-database-alternative"
+      "url": "https://gapmine.com/opportunities/2026-07-02/sales-analysis-tool"
     },
     {
-      "rank": 25,
+      "rank": 22,
       "opportunity": "Music Discovery Alternative",
       "who_is_asking": "Spotify users stuck on music discovery, seeking seamless Shazam integration without redundant notifications",
       "signals": 29,
       "sources": 9,
       "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-06-23/spotify-music-discovery-alternative"
+    },
+    {
+      "rank": 23,
+      "opportunity": "Browser File Encryption Tool",
+      "who_is_asking": "Browser users stuck on file encryption, wanting client-side managed secure cryptography",
+      "signals": 23,
+      "sources": 3,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-02/browser-file-encryption"
+    },
+    {
+      "rank": 24,
+      "opportunity": "Homelab Service Manager",
+      "who_is_asking": "Debian developers stuck on self-hosting Home Assistant with backup and notification systems",
+      "signals": 9,
+      "sources": 1,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-02/homelab-management"
+    },
+    {
+      "rank": 25,
+      "opportunity": "External Hard Drive Enclosures",
+      "who_is_asking": "Developers losing terabytes of work files due to faulty external hard drive enclosures",
+      "signals": 3,
+      "sources": 1,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-03/external-enclosure-sourcing"
     }
   ]
 }
