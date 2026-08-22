@@ -1,53 +1,53 @@
 {
   "sector": "tech",
   "label": "Developer and Tech Tools",
-  "generated_at": "2026-08-15",
-  "total_gaps": 123,
-  "total_signals": 1948,
-  "total_sources": 389,
+  "generated_at": "2026-08-22",
+  "total_gaps": 178,
+  "total_signals": 1260,
+  "total_sources": 469,
   "methodology": "Gaps are clusters of real builder conversations mined from Reddit, Hacker News, Product Hunt and GitHub, graded by verifiable evidence. No AI-invented ideas.",
   "canonical_report": "https://gapmine.com/blog/state-of-tech-gaps-2026",
   "license": "CC-BY-4.0 — free to cite with attribution to GapMine (https://gapmine.com)",
   "opportunities": [
     {
       "rank": 1,
-      "opportunity": "SaaS Marketing Strategy",
-      "who_is_asking": "founder (1)",
-      "signals": 83,
-      "sources": 6,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-05-05/b2b-saas-advertising-strategy"
-    },
-    {
-      "rank": 2,
-      "opportunity": "AWS Cost Optimizer",
-      "who_is_asking": "AWS Lambda users losing money, priced out of AWS due to growing background job costs",
-      "signals": 21,
+      "opportunity": "Self Hosted AWS Cost Cutter",
+      "who_is_asking": "SaaS platform founders losing $600/month to AWS Lambda, hunting self-hosted alternatives",
+      "signals": 22,
       "sources": 4,
       "evidence": "early",
       "url": "https://gapmine.com/opportunities/2026-06-09/aws-cost-optimization"
     },
     {
+      "rank": 2,
+      "opportunity": "Browser File Encryptor",
+      "who_is_asking": "Browser users stuck on file encryption, wanting client-side managed secure cryptography",
+      "signals": 8,
+      "sources": 2,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-02/browser-file-encryption"
+    },
+    {
       "rank": 3,
-      "opportunity": "SaaS Tool Discovery Platform",
-      "who_is_asking": "Support engineers stuck on SaaS discovery for mid-market clients with 94+ unseen apps",
-      "signals": 21,
-      "sources": 4,
+      "opportunity": "Spotify Song Alarm",
+      "who_is_asking": "Spotify creators stuck on integrating playlists into shortcuts",
+      "signals": 5,
+      "sources": 2,
       "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-24/saas-tool-shadow-it-discovery"
+      "url": "https://gapmine.com/opportunities/2026-07-07/play-specific-song-alarm"
     },
     {
       "rank": 4,
-      "opportunity": "Multitool For Development",
-      "who_is_asking": "Webdev users stuck on multiple tools like Postman, Dbeaver, and Docker, seeking a development multitool",
-      "signals": 6,
-      "sources": 5,
+      "opportunity": "Creator Discovery Platform",
+      "who_is_asking": "Founders stuck on manually searching online communities for customers without automation tools",
+      "signals": 4,
+      "sources": 2,
       "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-02/multitool-for-development"
+      "url": "https://gapmine.com/opportunities/2026-05-06/creator-content-discovery"
     },
     {
       "rank": 5,
-      "opportunity": "Self Hosted App Directory",
+      "opportunity": "Self Hosted Ticketing System",
       "who_is_asking": "Selfhosted app users hunting for human-curated lists of reliable tools",
       "signals": 4,
       "sources": 2,
@@ -56,61 +56,16 @@
     },
     {
       "rank": 6,
-      "opportunity": "AI Financial Action Controller",
-      "who_is_asking": "SaaS founders/operators stuck on allowing AI agents to take real financial actions",
-      "signals": 11,
-      "sources": 5,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-10/ai-agent-financial-action-controls"
-    },
-    {
-      "rank": 7,
-      "opportunity": "NAS Cloud Sync Tool",
-      "who_is_asking": "TrueNAS users stuck on reliable 10GbE setup with Minisforum N5 Air/Pro",
-      "signals": 6,
-      "sources": 3,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-23/nas-cloud-sync-tool"
-    },
-    {
-      "rank": 8,
-      "opportunity": "Self Hosted Database Alternative",
-      "who_is_asking": "Backend devs building Supabase apps struggle to understand and retain user behavior without native analytics · cite signal#1",
-      "signals": 5,
-      "sources": 3,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-23/backend-database-alternative"
-    },
-    {
-      "rank": 9,
-      "opportunity": "Multilingual Site Manager",
-      "who_is_asking": "WPML users stuck on large multilingual sites with 20+ languages, losing performance",
-      "signals": 3,
-      "sources": 1,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-28/multilingual-site-management"
-    },
-    {
-      "rank": 10,
-      "opportunity": "Self Hosted Container Security",
-      "who_is_asking": "Debian Docker users wondering if container isolation is enough for security",
+      "opportunity": "Local Llm Inference",
+      "who_is_asking": "Developers stuck on model quantization for daily driver Qwen 3.6 output",
       "signals": 3,
       "sources": 2,
       "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-14/container-security"
+      "url": "https://gapmine.com/opportunities/2026-06-18/local-llm-inference-cost"
     },
     {
-      "rank": 11,
-      "opportunity": "WordPress Security Plugin",
-      "who_is_asking": "WordPress users priced out of iThemes Security Pro, hunting affordable security alternatives",
-      "signals": 26,
-      "sources": 9,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-26/wordpress-security-plugin-alternative"
-    },
-    {
-      "rank": 12,
-      "opportunity": "Self Hosted GitHub Actions Runner",
+      "rank": 7,
+      "opportunity": "Self Hosted GitHub Actions",
       "who_is_asking": "GitHub Actions users priced out of GHA-hosted, hunting cheaper self-hosted runners on Lambda MicroVMs",
       "signals": 3,
       "sources": 2,
@@ -118,61 +73,7 @@
       "url": "https://gapmine.com/opportunities/2026-07-04/github-actions"
     },
     {
-      "rank": 13,
-      "opportunity": "Affordable AI Model Deployment",
-      "who_is_asking": "Qwen 3.6 developers can't afford speculative decoding, seeking cheap deployment at 5-10 tok/s",
-      "signals": 2,
-      "sources": 1,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-08/cheap-model-running"
-    },
-    {
-      "rank": 14,
-      "opportunity": "SaaS Project Validation Tool",
-      "who_is_asking": "",
-      "signals": 54,
-      "sources": 8,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-04-22/saas-idea-validation"
-    },
-    {
-      "rank": 15,
-      "opportunity": "Cloudflare Tunnel Encryption",
-      "who_is_asking": "Cloudflare users needing encryption for tunneled traffic to prevent data exposure",
-      "signals": 4,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-08-14/cloudflare-tunnel-encryption"
-    },
-    {
-      "rank": 16,
-      "opportunity": "Code Update Docs",
-      "who_is_asking": "Claude developers stuck on automating end user docs updates from code changes",
-      "signals": 3,
-      "sources": 2,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-05-28/team-documentation-platform"
-    },
-    {
-      "rank": 17,
-      "opportunity": "Reliable 10G Router",
-      "who_is_asking": "TP-Link users hunting for a trustworthy 10G router brand with set-and-forget control",
-      "signals": 3,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-24/trustworthy-10g-router"
-    },
-    {
-      "rank": 18,
-      "opportunity": "AI Model GPU Configurator",
-      "who_is_asking": "Dell Precision developers stuck on configuring dual 3060 GPUs for LLM workloads",
-      "signals": 3,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-01/gpu-configuration-optimizer"
-    },
-    {
-      "rank": 19,
+      "rank": 8,
       "opportunity": "Database Migration Tester",
       "who_is_asking": "SaaS developers losing data with AI-written DB migrations, hunting safety nets",
       "signals": 2,
@@ -181,43 +82,79 @@
       "url": "https://gapmine.com/opportunities/2026-06-18/database-migration-safety-testing"
     },
     {
-      "rank": 20,
-      "opportunity": "Chess Engine Optimizer",
-      "who_is_asking": "Duolingo Chess developers stuck on board recognition with Python/Stockfish bot",
+      "rank": 9,
+      "opportunity": "Obsidian Graph Plugins",
+      "who_is_asking": "Obsidian users abandoning it due to complexity, seeking simpler alternatives for notes and task management",
+      "signals": 51,
+      "sources": 3,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-01/obsidian-plugin-development-workflow"
+    },
+    {
+      "rank": 10,
+      "opportunity": "Relationship Reminder Application",
+      "who_is_asking": "iPhone users losing track of birthdays and anniversaries, wanting a reliable reminder system",
+      "signals": 5,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-19/relationship-reminder-app"
+    },
+    {
+      "rank": 11,
+      "opportunity": "Code Based Documentation Platform",
+      "who_is_asking": "Claude developers stuck on automating end user docs updates from code changes",
+      "signals": 3,
+      "sources": 2,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-05-28/team-documentation-platform"
+    },
+    {
+      "rank": 12,
+      "opportunity": "Markdown Widget",
+      "who_is_asking": "Android users losing fleeting memories, needing immediate markdown note-taking widgets like Quick Draft",
+      "signals": 3,
+      "sources": 1,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-04/markdown-widget-integration"
+    },
+    {
+      "rank": 13,
+      "opportunity": "Home Assistant Cabinet Lock Integration",
+      "who_is_asking": "Home Assistant users hunting for smart deadbolts with keypad and RFID integration",
+      "signals": 2,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-27/solstol-cabinet-lock-home-assistant"
+    },
+    {
+      "rank": 14,
+      "opportunity": "Stripe Usage Monitor",
+      "who_is_asking": "Stripe users stuck on syncing usage data to their own DB in real-time",
       "signals": 2,
       "sources": 2,
       "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-02/chess-bot-optimizer"
+      "url": "https://gapmine.com/opportunities/2026-07-09/stripe-usage-tracker"
     },
     {
-      "rank": 21,
-      "opportunity": "Win Loss Analyzer",
-      "who_is_asking": "Series-A B2B martech RevOps leads losing deals, hunting efficient win/loss analysis workflow",
+      "rank": 15,
+      "opportunity": "AI Conversation History",
+      "who_is_asking": "ObsidianMD users stuck on trapped ChatGPT and Gemini chat history context",
+      "signals": 2,
+      "sources": 2,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-08-12/ai-conversation-context"
+    },
+    {
+      "rank": 16,
+      "opportunity": "Natural Language To SQL Workflow",
+      "who_is_asking": "Databricks developers stuck on wiring natural-language-to-SQL into agent workflows",
       "signals": 2,
       "sources": 1,
       "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-02/sales-analysis-tool"
+      "url": "https://gapmine.com/opportunities/2026-08-17/natural-language-to-sql-workflow"
     },
     {
-      "rank": 22,
-      "opportunity": "Music Discovery Alternative",
-      "who_is_asking": "Spotify users stuck on music discovery, seeking seamless Shazam integration without redundant notifications",
-      "signals": 29,
-      "sources": 9,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-23/spotify-music-discovery-alternative"
-    },
-    {
-      "rank": 23,
-      "opportunity": "Browser File Encryption Tool",
-      "who_is_asking": "Browser users stuck on file encryption, wanting client-side managed secure cryptography",
-      "signals": 23,
-      "sources": 3,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-02/browser-file-encryption"
-    },
-    {
-      "rank": 24,
+      "rank": 17,
       "opportunity": "Homelab Service Manager",
       "who_is_asking": "Debian developers stuck on self-hosting Home Assistant with backup and notification systems",
       "signals": 9,
@@ -226,13 +163,76 @@
       "url": "https://gapmine.com/opportunities/2026-07-02/homelab-management"
     },
     {
-      "rank": 25,
-      "opportunity": "External Hard Drive Enclosures",
-      "who_is_asking": "Developers losing terabytes of work files due to faulty external hard drive enclosures",
+      "rank": 18,
+      "opportunity": "Obsidian Vault Publishing",
+      "who_is_asking": "Obsidian users stuck on publishing notes without Git, seeking self-hosted alternatives",
+      "signals": 3,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-22/obsidian-vault-publishing-platform"
+    },
+    {
+      "rank": 19,
+      "opportunity": "Multilingual Site Manager",
+      "who_is_asking": "WPML users stuck on large multilingual sites with 20+ languages, losing performance",
       "signals": 3,
       "sources": 1,
       "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-03/external-enclosure-sourcing"
+      "url": "https://gapmine.com/opportunities/2026-06-28/multilingual-site-management"
+    },
+    {
+      "rank": 20,
+      "opportunity": "AI Model GPU Configurator",
+      "who_is_asking": "Dell Precision developers stuck on configuring dual 3060 GPUs for LLM workloads",
+      "signals": 3,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-01/gpu-configuration-optimizer"
+    },
+    {
+      "rank": 21,
+      "opportunity": "Obsidian Org Mode Support",
+      "who_is_asking": "Obsidian users stuck on markdown, wanting orgmode features like shiny headings and tables",
+      "signals": 2,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-20/obsidian-orgmode-support"
+    },
+    {
+      "rank": 22,
+      "opportunity": "Win Loss Analyzer",
+      "who_is_asking": "Series-A B2B martech RevOps leads losing deals, hunting efficient win/loss analysis workflow",
+      "signals": 2,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-02/sales-analysis-tool"
+    },
+    {
+      "rank": 23,
+      "opportunity": "Browser Automation Framework",
+      "who_is_asking": "Browser automation developers stuck on unstable selectors and broken scripts",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-23/browser-automation-tool-stability"
+    },
+    {
+      "rank": 24,
+      "opportunity": "Dynamic OG Image Generator",
+      "who_is_asking": "Next.js frontend devs, scaling multi-page sites, balancing OG image CSS limitations against external API latency · cite signal#1",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-06-23/dynamic-og-image-generation"
+    },
+    {
+      "rank": 25,
+      "opportunity": "LLM Provider Gateway",
+      "who_is_asking": "Tech developers stuck on LLM gateway choice for internal access control and usage visibility",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-06-23/llm-gateway-management"
     }
   ]
 }
