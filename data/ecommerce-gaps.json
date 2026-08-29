@@ -1,43 +1,115 @@
 {
   "sector": "ecommerce",
   "label": "Ecommerce and DTC",
-  "generated_at": "2026-08-22",
-  "total_gaps": 62,
-  "total_signals": 709,
-  "total_sources": 194,
+  "generated_at": "2026-08-29",
+  "total_gaps": 147,
+  "total_signals": 953,
+  "total_sources": 321,
   "methodology": "Gaps are clusters of real builder conversations mined from Reddit, Hacker News, Product Hunt and GitHub, graded by verifiable evidence. No AI-invented ideas.",
   "canonical_report": "https://gapmine.com/blog/state-of-ecommerce-gaps-2026",
   "license": "CC-BY-4.0 — free to cite with attribution to GapMine (https://gapmine.com)",
   "opportunities": [
     {
       "rank": 1,
-      "opportunity": "Tiktok Shop Video Monetizer",
+      "opportunity": "TikTok Shop Monetization Tools",
       "who_is_asking": "TikTok Shop affiliates losing sales due to low product visibility and lack of transparency",
-      "signals": 19,
+      "signals": 22,
       "sources": 4,
       "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-06-15/tiktok-shop-video-monetization"
     },
     {
       "rank": 2,
-      "opportunity": "Amazon Listing Translation Tool",
-      "who_is_asking": "Amazon sellers losing visibility due to auto-translation errors in Japanese and Arabic markets",
-      "signals": 5,
-      "sources": 5,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-19/amazon-listing-localization-translation"
+      "opportunity": "Ecommerce Product Cleaner",
+      "who_is_asking": "Shopify sellers stuck on cleaning supplier product descriptions and titles",
+      "signals": 3,
+      "sources": 2,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-06-28/product-description-cleanup-automation"
     },
     {
       "rank": 3,
-      "opportunity": "TikTok Shop Fulfillment Service",
-      "who_is_asking": "Shopify sellers losing sales despite 300k TikTok views, can't afford low conversions",
-      "signals": 1,
-      "sources": 1,
+      "opportunity": "Shopify Payment Gateway",
+      "who_is_asking": "Shopify sellers stuck on payment processing, losing sales due to limited payment options",
+      "signals": 17,
+      "sources": 3,
       "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-12/tiktok-shop-fulfillment-provider"
+      "url": "https://gapmine.com/opportunities/2026-07-02/shopify-payment-app-checkout"
     },
     {
       "rank": 4,
+      "opportunity": "Amazon Listing Translation",
+      "who_is_asking": "Amazon sellers stuck on image translations for listings and ebc contents",
+      "signals": 6,
+      "sources": 5,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-06-19/amazon-listing-localization-translation"
+    },
+    {
+      "rank": 5,
+      "opportunity": "WooCommerce Product Search",
+      "who_is_asking": "WooCommerce sellers stuck on default search missing products by SKU, attributes, and tags",
+      "signals": 3,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-18/woocommerce-search-product-discovery"
+    },
+    {
+      "rank": 6,
+      "opportunity": "Shopify Collection Image Manager",
+      "who_is_asking": "Shopify sellers can't afford multiple images for variants",
+      "signals": 2,
+      "sources": 2,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-31/shopify-multi-collection-images"
+    },
+    {
+      "rank": 7,
+      "opportunity": "Amazon Return Tracker",
+      "who_is_asking": "Amazon sellers stuck on high return rates, hunting for a return tracker to flag repeat offenders",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-09/amazon-return-pattern-tracking"
+    },
+    {
+      "rank": 8,
+      "opportunity": "Bundle App Alternative",
+      "who_is_asking": "Ecommerce developers losing Fast Bundle, hunting alternative with SKU breakdown and customization options",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-22/bundle-app-alternative"
+    },
+    {
+      "rank": 9,
+      "opportunity": "WooCommerce Payout Manager",
+      "who_is_asking": "WooCommerce sellers stuck on suspended payouts, needing transaction history to release €800 funds",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-23/woocommerce-payout"
+    },
+    {
+      "rank": 10,
+      "opportunity": "WooCommerce Catalog Alternative",
+      "who_is_asking": "WooCommerce sellers drowning in variant explosion with large fashion catalogs",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-27/ecommerce-catalog-management"
+    },
+    {
+      "rank": 11,
+      "opportunity": "WooCommerce Setup Guide",
+      "who_is_asking": "Shopify sellers losing control, stuck with poor customer service and payment issues",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-08-01/woocommerce-setup"
+    },
+    {
+      "rank": 12,
       "opportunity": "Manage WooCommerce Orders on Mobile",
       "who_is_asking": "WooCommerce sellers hunting for a modern POS plugin with a clean UI",
       "signals": 5,
@@ -46,7 +118,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-21/woocommerce-mobile-order-management-app"
     },
     {
-      "rank": 5,
+      "rank": 13,
       "opportunity": "WooCommerce Shiprocket Integration",
       "who_is_asking": "Shopify sellers losing reliable international shipping options, hunting cheaper alternatives",
       "signals": 4,
@@ -55,16 +127,7 @@
       "url": "https://gapmine.com/opportunities/2026-04-28/woocommerce-shiprocket-integration"
     },
     {
-      "rank": 6,
-      "opportunity": "WooCommerce Product Finder",
-      "who_is_asking": "WooCommerce sellers stuck on default search missing products by SKU, attributes, and tags",
-      "signals": 3,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-18/woocommerce-search-product-discovery"
-    },
-    {
-      "rank": 7,
+      "rank": 14,
       "opportunity": "Ecommerce Search Booster",
       "who_is_asking": "WooCommerce sellers losing sales due to searches returning zero results",
       "signals": 2,
@@ -73,16 +136,79 @@
       "url": "https://gapmine.com/opportunities/2026-07-02/search-function-improvement"
     },
     {
-      "rank": 8,
-      "opportunity": "Shopify Payment App Checkout",
-      "who_is_asking": "Shopify sellers stuck on payment processing, losing sales due to limited options",
-      "signals": 16,
-      "sources": 3,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-02/shopify-payment-app-checkout"
+      "rank": 15,
+      "opportunity": "WooCommerce Square Sync",
+      "who_is_asking": "WooCommerce sellers can't afford broken Square image sync, losing sales",
+      "signals": 2,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-23/woocommerce-square-integration"
     },
     {
-      "rank": 9,
+      "rank": 16,
+      "opportunity": "Digital Product Recovery",
+      "who_is_asking": "Digital product sellers losing sales due to abandoned checkouts, wanting recovery solutions",
+      "signals": 2,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-08-27/digital-product-recovery"
+    },
+    {
+      "rank": 17,
+      "opportunity": "Purchase Order Stock Splitter",
+      "who_is_asking": "Shopify sellers can't afford to count stock twice, seeking a PO system for instant stock splitting",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-06-08/purchase-order-stock-management"
+    },
+    {
+      "rank": 18,
+      "opportunity": "Etsy Messaging API Access",
+      "who_is_asking": "Etsy sellers stuck on responding to Messages, wanting separate access for virtual assistants",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-06-24/etsy-messaging-api-access"
+    },
+    {
+      "rank": 19,
+      "opportunity": "Amazon Seller Account Login",
+      "who_is_asking": "Amazon sellers can't log in past onboarding screen despite account approval",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-07/amazon-seller-account-onboarding-login"
+    },
+    {
+      "rank": 20,
+      "opportunity": "Dropshipping Email Compliance",
+      "who_is_asking": "Klaviyo users losing automation due to high-risk dropshipping store flags",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-09/dropshipping-email-compliance"
+    },
+    {
+      "rank": 21,
+      "opportunity": "Shopify Variant Badges",
+      "who_is_asking": "Shopify sellers priced out of bundle apps, hunting cheaper alternatives for product variant management",
+      "signals": 17,
+      "sources": 1,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-05-06/shopify-product-variant-badges"
+    },
+    {
+      "rank": 22,
+      "opportunity": "Multilingual Store Support",
+      "who_is_asking": "Shopify sellers stuck on manually inserting languages for their stores",
+      "signals": 2,
+      "sources": 2,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-10/shopify-multilingual-support"
+    },
+    {
+      "rank": 23,
       "opportunity": "Easy WooCommerce ad tracking",
       "who_is_asking": "WooCommerce sellers losing purchase tracking reliability with Stripe-hosted Checkout",
       "signals": 2,
@@ -91,7 +217,7 @@
       "url": "https://gapmine.com/opportunities/2026-07-23/woocommerce-meta-ads-tracking"
     },
     {
-      "rank": 10,
+      "rank": 24,
       "opportunity": "Dropshipping Supplier Finder",
       "who_is_asking": "CJ Dropshipping sellers stuck on disorganized product listings and variants",
       "signals": 2,
@@ -100,139 +226,13 @@
       "url": "https://gapmine.com/opportunities/2026-07-30/dropshipping-supplier-evaluation"
     },
     {
-      "rank": 11,
-      "opportunity": "Ecommerce Inventory List Generator",
-      "who_is_asking": "Ecommerce sellers stuck on inventory management, hunting for a shortcut or list generator",
-      "signals": 2,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-08-21/inventory-management"
-    },
-    {
-      "rank": 12,
-      "opportunity": "Shopify Variant Badges",
-      "who_is_asking": "Shopify sellers priced out of bundle apps, hunting cheaper alternatives for product variant management",
+      "rank": 25,
+      "opportunity": "Shopify To WooCommerce Migration",
+      "who_is_asking": "Shopify sellers losing money to POS fees, hunting for alternatives",
       "signals": 1,
       "sources": 1,
       "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-05-06/shopify-product-variant-badges"
-    },
-    {
-      "rank": 13,
-      "opportunity": "Product Research Comparison Tool",
-      "who_is_asking": "eBay sellers can't afford Kalodata, hunting for product research alternatives",
-      "signals": 3,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-02/product-research-tool"
-    },
-    {
-      "rank": 14,
-      "opportunity": "Shopify Bot Abuse Protector",
-      "who_is_asking": "Shopify sellers losing sales to bot traffic, abandoning checkouts daily",
-      "signals": 5,
-      "sources": 3,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-05-01/shopify-bot-abuse-prevention"
-    },
-    {
-      "rank": 15,
-      "opportunity": "Amazon FBA Wholesale Product Finder",
-      "who_is_asking": "Amazon FBA sellers hunting for profitable wholesale products to source and resell",
-      "signals": 3,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-12/amazon-fba-wholesale-tools"
-    },
-    {
-      "rank": 16,
-      "opportunity": "WooCommerce Review Analyzer Tool",
-      "who_is_asking": "WooCommerce sellers losing Judge.me, hunting for a reliable review plugin replacement",
-      "signals": 10,
-      "sources": 3,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-20/woocommerce-review-analysis-tool"
-    },
-    {
-      "rank": 17,
-      "opportunity": "WooCommerce Subscription Manager",
-      "who_is_asking": "WooCommerce sellers hunting for reliable subscription plugins with automatic recurring payments",
-      "signals": 7,
-      "sources": 4,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-08/woocommerce-subscription-management"
-    },
-    {
-      "rank": 18,
-      "opportunity": "Shopify SEO Backlink Builder",
-      "who_is_asking": "Shopify sellers stuck on manual SEO tasks like meta descriptions and image alt text",
-      "signals": 4,
-      "sources": 3,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-22/shopify-backlink-seo"
-    },
-    {
-      "rank": 19,
-      "opportunity": "Launch Home-cooked Food Marketplace Instantly",
-      "who_is_asking": "UK home-cooked food marketplace founders hunting for a white-label platform with key features",
-      "signals": 2,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-17/white-label-food-marketplace"
-    },
-    {
-      "rank": 20,
-      "opportunity": "Shopify Custom Order Manager",
-      "who_is_asking": "Shopify sellers stuck on tracking customer-supplied materials for custom orders",
-      "signals": 11,
-      "sources": 4,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-05-13/shopify-open-order-type"
-    },
-    {
-      "rank": 21,
-      "opportunity": "Cost Tracker Tool",
-      "who_is_asking": "Amazon FBA sellers losing money to currency conversions, hunting a reliable expense management tool",
-      "signals": 7,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-30/fba-supplier-cost-tracking"
-    },
-    {
-      "rank": 22,
-      "opportunity": "African Payment Gateway",
-      "who_is_asking": "WooCommerce sellers in Africa can't afford Stripe, hunting for alternative payment solutions",
-      "signals": 4,
-      "sources": 2,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-06-11/ecommerce-retail-africa"
-    },
-    {
-      "rank": 23,
-      "opportunity": "Amazon Repricing Tool",
-      "who_is_asking": "Amazon sellers hunting non-obvious repricing techniques to execute manually",
-      "signals": 24,
-      "sources": 7,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-04-24/amazon-repricing-automation"
-    },
-    {
-      "rank": 24,
-      "opportunity": "Shopify Checkout Rule Builder",
-      "who_is_asking": "Shopify sellers hunting for upsell apps with complex rules, including 'NOT' logic",
-      "signals": 5,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-05-16/shopify-upsell-rule-builder"
-    },
-    {
-      "rank": 25,
-      "opportunity": "Checkout Abandonment Recovery Tools",
-      "who_is_asking": "Shopify sellers losing sales due to abandoned checkouts",
-      "signals": 3,
-      "sources": 1,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-06-18/shopify-checkout-abandonment-reduction"
+      "url": "https://gapmine.com/opportunities/2026-04-24/shopify-platform-switching"
     }
   ]
 }
