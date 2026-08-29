@@ -1,26 +1,26 @@
 {
   "sector": "nocode",
   "label": "No-Code and Automation",
-  "generated_at": "2026-08-22",
-  "total_gaps": 41,
-  "total_signals": 358,
-  "total_sources": 139,
+  "generated_at": "2026-08-29",
+  "total_gaps": 78,
+  "total_signals": 476,
+  "total_sources": 196,
   "methodology": "Gaps are clusters of real builder conversations mined from Reddit, Hacker News, Product Hunt and GitHub, graded by verifiable evidence. No AI-invented ideas.",
   "canonical_report": "https://gapmine.com/blog/state-of-nocode-gaps-2026",
   "license": "CC-BY-4.0 — free to cite with attribution to GapMine (https://gapmine.com)",
   "opportunities": [
     {
       "rank": 1,
-      "opportunity": "Webflow Custom Code Manager",
+      "opportunity": "Webflow Cms Custom Logic",
       "who_is_asking": "Webflow users stuck on maintainable site creation with clean code structure and secure CMS adjustments",
-      "signals": 33,
+      "signals": 34,
       "sources": 9,
-      "evidence": "early",
+      "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-04-29/webflow-cms-feature-enhancement"
     },
     {
       "rank": 2,
-      "opportunity": "Automated Invoice Emailing",
+      "opportunity": "Automated Invoice Spreadsheet Tool",
       "who_is_asking": "Make.com users stuck on manual PDF invoice emailing for 80 recurring clients",
       "signals": 26,
       "sources": 13,
@@ -30,14 +30,23 @@
     {
       "rank": 3,
       "opportunity": "Notion AI Pipeline",
-      "who_is_asking": "Notion users losing time with third-party AI models, wanting native AI integration",
-      "signals": 11,
-      "sources": 3,
+      "who_is_asking": "Notion users losing time with third-party AI models, hunting for a native Notion AI solution",
+      "signals": 12,
+      "sources": 4,
       "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-07-03/notion-ai-pipeline-integration"
     },
     {
       "rank": 4,
+      "opportunity": "Bubble Excalidraw Plugin",
+      "who_is_asking": "Bubble users stuck on customizing ECSR plugin for page-based whiteboard and photo insertion",
+      "signals": 11,
+      "sources": 4,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-16/bubble-plugin-customization"
+    },
+    {
+      "rank": 5,
       "opportunity": "N8n Workflow Migration Tool",
       "who_is_asking": "n8n self-host users stuck on manually copying workflows between environments",
       "signals": 2,
@@ -46,25 +55,25 @@
       "url": "https://gapmine.com/opportunities/2026-07-07/workflow-migration-tool"
     },
     {
-      "rank": 5,
-      "opportunity": "Bubble Plugin Customization",
-      "who_is_asking": "Bubble users stuck on customizing ECSR plugin for page-based whiteboard and photo insertion",
-      "signals": 10,
-      "sources": 3,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-16/bubble-plugin-customization"
-    },
-    {
       "rank": 6,
-      "opportunity": "Zapier Code Step Debugger",
-      "who_is_asking": "Nocode RevOps teams losing reliability with Zapier, hunting for alternatives due to silent failures",
-      "signals": 4,
-      "sources": 1,
+      "opportunity": "Notion Claude Integration",
+      "who_is_asking": "Notion users can't afford to access own data, stuck on paywalls for Claude Pro integration",
+      "signals": 2,
+      "sources": 2,
       "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-06-11/zapier-code-step-debugging"
+      "url": "https://gapmine.com/opportunities/2026-07-26/note-taking-integration"
     },
     {
       "rank": 7,
+      "opportunity": "Zapier Code Step Debugger",
+      "who_is_asking": "Nocode RevOps teams losing reliability with Zapier, hunting for alternatives due to silent failures",
+      "signals": 5,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-11/zapier-code-step-debugging"
+    },
+    {
+      "rank": 8,
       "opportunity": "App Consolidation Tool",
       "who_is_asking": "Nocode founders stuck with 10-30 apps, losing work in manual handoffs between tools",
       "signals": 2,
@@ -73,7 +82,34 @@
       "url": "https://gapmine.com/opportunities/2026-07-07/workflow-app-consolidation-platform"
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "opportunity": "N8n Workflow Rate Limiter",
+      "who_is_asking": "Nocode developers stuck on handling usage limits with n8n workflows as API endpoints",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-05-06/n8n-parallel-workflow-rate-limiting"
+    },
+    {
+      "rank": 10,
+      "opportunity": "Notion AI Alternative",
+      "who_is_asking": "Notion users stuck on lower-quality AI responses compared to direct Claude or GPT usage",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-30/notion-ai-integration"
+    },
+    {
+      "rank": 11,
+      "opportunity": "Webflow Custom Assistant",
+      "who_is_asking": "Webflow site owners stuck on custom AI assistant integration, cleaning content for better bot performance",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-08-10/built-custom-assistant-our"
+    },
+    {
+      "rank": 12,
       "opportunity": "Airtable PDF Generator",
       "who_is_asking": "Airtable users stuck on generating PDFs with linked records and formatting issues",
       "signals": 4,
@@ -82,8 +118,8 @@
       "url": "https://gapmine.com/opportunities/2026-06-16/pdf-generation-linked-records"
     },
     {
-      "rank": 9,
-      "opportunity": "Zapier Automation Monitor",
+      "rank": 13,
+      "opportunity": "Advanced Zapier Workflows",
       "who_is_asking": "Shopify sellers stuck on Zapier's OpenAI integration, treating every ticket as new",
       "signals": 3,
       "sources": 3,
@@ -91,7 +127,43 @@
       "url": "https://gapmine.com/opportunities/2026-06-08/automation-infrastructure-compliance"
     },
     {
-      "rank": 10,
+      "rank": 14,
+      "opportunity": "Google Calendar Notion Sync",
+      "who_is_asking": "Notion users stuck on dual Google Calendar sync with autosync",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-05-06/make-google-calendar-sync"
+    },
+    {
+      "rank": 15,
+      "opportunity": "Non Text Handler For Obsidian",
+      "who_is_asking": "Obsidian users stuck on handling non-text content, seeking a unified workflow solution",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-08-14/non-text-handling"
+    },
+    {
+      "rank": 16,
+      "opportunity": "Airtable Record Update",
+      "who_is_asking": "Airtable users stuck on secure external record updates without base access",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-08-15/airtable-record-update-permissions"
+    },
+    {
+      "rank": 17,
+      "opportunity": "Obsidian Physical Note Importer",
+      "who_is_asking": "Obsidian users stuck on manually linking old notes, seeking automation solutions",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-08-18/physical-notes-to-obsidian-import"
+    },
+    {
+      "rank": 18,
       "opportunity": "Notion Database Backup",
       "who_is_asking": "Notion users can't export data properly, losing data and seeking a reliable backup solution",
       "signals": 5,
@@ -100,16 +172,52 @@
       "url": "https://gapmine.com/opportunities/2026-04-22/notion-database-page-copying"
     },
     {
-      "rank": 11,
-      "opportunity": "Slide Automation Tool",
-      "who_is_asking": "Obsidian users stuck on manually formatting dense notes into presentation slides",
-      "signals": 4,
-      "sources": 3,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-30/youtube-slide-formatting-automation"
+      "rank": 19,
+      "opportunity": "API Key Manager",
+      "who_is_asking": "n8n users losing audit trails due to shared API keys across multiple AI agent workflows",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-07/api-key-rotation-tool"
     },
     {
-      "rank": 12,
+      "rank": 20,
+      "opportunity": "Easy color picker for Notion",
+      "who_is_asking": "Notion users stuck on limited preset colors, wanting a proper color picker for accessibility",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-19/color-picker-tool"
+    },
+    {
+      "rank": 21,
+      "opportunity": "WordPress Change Tracker",
+      "who_is_asking": "WordPress developers losing track of small site changes, hunting a way to document decisions",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-24/wordpress-change-documentation"
+    },
+    {
+      "rank": 22,
+      "opportunity": "Non Technical Software Builder",
+      "who_is_asking": "Non-technical teams stuck on waiting for engineering to build internal tools",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-31/non-technical-software-development"
+    },
+    {
+      "rank": 23,
+      "opportunity": "No Code Workflow Tool",
+      "who_is_asking": "No-code developers stuck on repetitive work, wanting AI to handle it",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-08-01/completely-changed-code-workflow"
+    },
+    {
+      "rank": 24,
       "opportunity": "Airtable Calendar Sync",
       "who_is_asking": "Airtable founders stuck on 2-way syncing with Google Calendar for time blocking",
       "signals": 3,
@@ -118,121 +226,13 @@
       "url": "https://gapmine.com/opportunities/2026-07-07/airtable-google-calendar-sync"
     },
     {
-      "rank": 13,
-      "opportunity": "Personal book catalog system",
-      "who_is_asking": "Nocode users hunting for a book-tracking database with daily page goal and reading statistics features",
-      "signals": 2,
-      "sources": 1,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-08-03/book-tracking-database"
-    },
-    {
-      "rank": 14,
-      "opportunity": "No Code Automation Tool",
-      "who_is_asking": "Nocode users stuck on automation setup due to technical complexity",
-      "signals": 38,
-      "sources": 14,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-15/automation-tool-evaluation"
-    },
-    {
-      "rank": 15,
-      "opportunity": "No Code Database Alternative",
-      "who_is_asking": "Airtable users stuck on automation limits and bolted tools, hunting a closer app-database integration",
-      "signals": 6,
-      "sources": 3,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-05-31/airtable-alternative-platform"
-    },
-    {
-      "rank": 16,
-      "opportunity": "Complex workflow automation",
-      "who_is_asking": "n8n users stuck on complex multi-step automations, losing time with inefficient workflows",
-      "signals": 2,
-      "sources": 1,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-08-21/n8n-healthcare-automation"
-    },
-    {
-      "rank": 17,
-      "opportunity": "Zapier PDF Generator",
-      "who_is_asking": "Zapier users stuck on generating PDFs with dynamic fields, getting empty or garbled attachments",
-      "signals": 9,
-      "sources": 3,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-02/pdf-generation-automation"
-    },
-    {
-      "rank": 18,
-      "opportunity": "Webflow API Integration Tool",
-      "who_is_asking": "Webflow users stuck on integrating LinkedIn Conversions API for website visit tracking",
-      "signals": 4,
-      "sources": 1,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-21/webflow-api-connector"
-    },
-    {
-      "rank": 19,
-      "opportunity": "Airtable Forms for WordPress",
-      "who_is_asking": "WordPress site owners stuck on connecting forms to Airtable via webhooks",
-      "signals": 3,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-03/airtable-wordpress-form-integration"
-    },
-    {
-      "rank": 20,
-      "opportunity": "WordPress Plugin Store",
-      "who_is_asking": "WordPress developers hunting for a plugin, lacking sufficient catalog options",
-      "signals": 2,
-      "sources": 1,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-25/wordpress-plugin"
-    },
-    {
-      "rank": 21,
-      "opportunity": "Airtable Google Sheets Sync",
-      "who_is_asking": "Airtable users stuck on cumbersome Link+Rollup+scheduled-automation for rolling WTD/MTD/YTD totals",
-      "signals": 4,
-      "sources": 3,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-06-24/airtable-sheets-two-way-sync"
-    },
-    {
-      "rank": 22,
-      "opportunity": "N8n No Code Workflow Automation",
-      "who_is_asking": "Nocode users stuck on vendor lock-in, losing workflow control with no-code tools",
-      "signals": 4,
-      "sources": 2,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-07/nocode-app-workflow-automation"
-    },
-    {
-      "rank": 23,
-      "opportunity": "Webflow Alternative Hosting",
-      "who_is_asking": "Webflow agencies abandoning Webflow for custom code stacks, handling hosting and multilingual support",
-      "signals": 3,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-06-22/webflow-alternative-hosting-migration"
-    },
-    {
-      "rank": 24,
-      "opportunity": "Read Only Notion Alternative",
-      "who_is_asking": "Notion users losing project structure, drowning in chaotic workspaces and disorganized databases",
-      "signals": 3,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-02/notion-alternative-for-read-only-sharing"
-    },
-    {
       "rank": 25,
-      "opportunity": "No-Code Mobile Test Automation",
-      "who_is_asking": "No-code mobile testers stuck on dynamic UI testing for Android and iOS",
-      "signals": 8,
-      "sources": 2,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-05-19/mobile-testing-automation"
+      "opportunity": "Obsidian Moodboard Manager",
+      "who_is_asking": "Obsidian users abandoning Pinterest, seeking intelligent moodboard management with image tagging and notes",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-06-18/obsidian-moodboard-plugin"
     }
   ]
 }
