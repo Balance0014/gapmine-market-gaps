@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-03",
+  "generated_at": "2026-10-10",
   "source": "https://gapmine.com",
   "sectors": [
     {
       "sector": "tech",
       "label": "Developer and Tech Tools",
-      "total_gaps": 730,
-      "total_signals": 3111
+      "total_gaps": 748,
+      "total_signals": 3378
     },
     {
       "sector": "ecommerce",
       "label": "Ecommerce and DTC",
-      "total_gaps": 169,
-      "total_signals": 1149
+      "total_gaps": 167,
+      "total_signals": 1210
     },
     {
       "sector": "nocode",
       "label": "No-Code and Automation",
-      "total_gaps": 87,
-      "total_signals": 497
+      "total_gaps": 86,
+      "total_signals": 499
     },
     {
       "sector": "creator",
       "label": "Creator Economy",
-      "total_gaps": 88,
-      "total_signals": 571
+      "total_gaps": 89,
+      "total_signals": 490
     }
   ]
 }

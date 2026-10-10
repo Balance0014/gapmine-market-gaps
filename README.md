@@ -5,7 +5,7 @@
 <p align="center"><b>An open, continuously-updated dataset of unbuilt market gaps</b><br>
 mined from real builder conversations on Reddit, Hacker News, Product Hunt and GitHub.</p>
 
-<p align="center"><a href="https://gapmine.com">gapmine.com</a> · Updated 2026-10-03 · 1074 gaps across 4 sectors · License: CC-BY-4.0</p>
+<p align="center"><a href="https://gapmine.com">gapmine.com</a> · Updated 2026-10-10 · 1090 gaps across 4 sectors · License: CC-BY-4.0</p>
 
 ---
 
@@ -17,10 +17,10 @@ mined from real builder conversations on Reddit, Hacker News, Product Hunt and G
 
 | Sector | Gaps tracked | Builder signals | Links |
 |---|---|---|---|
-| **Developer and Tech Tools** | 730 | 3,111 | [Report ↗](https://gapmine.com/blog/state-of-tech-gaps-2026) · [JSON](data/tech-gaps.json) |
-| **Ecommerce and DTC** | 169 | 1,149 | [Report ↗](https://gapmine.com/blog/state-of-ecommerce-gaps-2026) · [JSON](data/ecommerce-gaps.json) |
-| **No-Code and Automation** | 87 | 497 | [Report ↗](https://gapmine.com/blog/state-of-nocode-gaps-2026) · [JSON](data/nocode-gaps.json) |
-| **Creator Economy** | 88 | 571 | [Report ↗](https://gapmine.com/blog/state-of-creator-gaps-2026) · [JSON](data/creator-gaps.json) |
+| **Developer and Tech Tools** | 748 | 3,378 | [Report ↗](https://gapmine.com/blog/state-of-tech-gaps-2026) · [JSON](data/tech-gaps.json) |
+| **Ecommerce and DTC** | 167 | 1,210 | [Report ↗](https://gapmine.com/blog/state-of-ecommerce-gaps-2026) · [JSON](data/ecommerce-gaps.json) |
+| **No-Code and Automation** | 86 | 499 | [Report ↗](https://gapmine.com/blog/state-of-nocode-gaps-2026) · [JSON](data/nocode-gaps.json) |
+| **Creator Economy** | 89 | 490 | [Report ↗](https://gapmine.com/blog/state-of-creator-gaps-2026) · [JSON](data/creator-gaps.json) |
 
 - **`data/<sector>-gaps.json`** — ranked opportunities with the audience asking, signal counts, and an evidence grade (`validated` / `corroborated` / `early`).
 - Full written reports live on **[gapmine.com/blog](https://gapmine.com/blog)** (canonical source).
@@ -35,6 +35,6 @@ mined from real builder conversations on Reddit, Hacker News, Product Hunt and G
 
 ## Citation
 
-> GapMine — Market Gaps Dataset (2026-10-03). https://gapmine.com
+> GapMine — Market Gaps Dataset (2026-10-10). https://gapmine.com
 
 Licensed **CC-BY-4.0**: free to use and cite with attribution to GapMine.
