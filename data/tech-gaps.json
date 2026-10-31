@@ -1,10 +1,10 @@
 {
   "sector": "tech",
   "label": "Developer and Tech Tools",
-  "generated_at": "2026-10-24",
-  "total_gaps": 747,
-  "total_signals": 3738,
-  "total_sources": 1268,
+  "generated_at": "2026-10-31",
+  "total_gaps": 759,
+  "total_signals": 3870,
+  "total_sources": 1275,
   "methodology": "Gaps are clusters of real builder conversations mined from Reddit, Hacker News, Product Hunt and GitHub, graded by verifiable evidence. No AI-invented ideas.",
   "canonical_report": "https://gapmine.com/blog/state-of-tech-gaps-2026",
   "license": "CC-BY-4.0 — free to cite with attribution to GapMine (https://gapmine.com)",
@@ -13,31 +13,22 @@
       "rank": 1,
       "opportunity": "DeepSeek Language Model",
       "who_is_asking": "LocalLLaMA developers can't afford Qwen/Deepseek, hunting alternatives for coding and long document QA",
-      "signals": 50,
+      "signals": 54,
       "sources": 9,
       "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-09-10/large-language-model"
     },
     {
       "rank": 2,
-      "opportunity": "Self Hosted GitHub Actions",
-      "who_is_asking": "GitHub Actions users priced out of GHA-hosted, hunting cheaper self-hosted runners on Lambda MicroVMs",
-      "signals": 24,
-      "sources": 5,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-04/github-actions"
+      "opportunity": "Cloudflare Tunnel Encryption",
+      "who_is_asking": "Cloudflare users stuck on encrypting traffic beforehand to hide IP",
+      "signals": 5,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-08-14/cloudflare-tunnel-encryption"
     },
     {
       "rank": 3,
-      "opportunity": "iMessage Fitness Coach",
-      "who_is_asking": "iMessage-based fitness coach developers stuck on seamless onboarding process",
-      "signals": 5,
-      "sources": 1,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-08-22/imessage-fitness-coach"
-    },
-    {
-      "rank": 4,
       "opportunity": "WordPress To AI Code Converter",
       "who_is_asking": "WordPress developers stuck on replicating sites 1:1 into AI-first codebases with Claude Code",
       "signals": 4,
@@ -46,16 +37,16 @@
       "url": "https://gapmine.com/opportunities/2026-07-02/wordpress-to-ai-codebase-converter"
     },
     {
-      "rank": 5,
-      "opportunity": "DeGoogle Tool",
-      "who_is_asking": "Google-fatigued developers hunting reliable degoogling solutions",
+      "rank": 4,
+      "opportunity": "Lazy Async Dependency Injection",
+      "who_is_asking": "TypeScript developers stuck on lazy async initialization for DI containers with CommonJS support",
       "signals": 3,
-      "sources": 1,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-07-26/degoogling-solution"
+      "sources": 2,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-10-29/typescript-di-container-lazy-async"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "opportunity": "AI Development Course",
       "who_is_asking": "Node.js backend developers stuck on finding a comprehensive AI development course with modern AI stack",
       "signals": 2,
@@ -64,7 +55,7 @@
       "url": "https://gapmine.com/opportunities/2026-08-12/ai-development-course"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "opportunity": "Chat History Notion AI",
       "who_is_asking": "ChatGPT users stuck on scattered conversations, losing context across thousands of separate chats",
       "signals": 2,
@@ -73,13 +64,22 @@
       "url": "https://gapmine.com/opportunities/2026-08-12/ai-conversation-context"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "opportunity": "Qwen Flash Next Optimizer",
       "who_is_asking": "Qwen-Flash-Next developers stuck on llama.cpp, hunting for vLLM for 200K+ context",
       "signals": 2,
       "sources": 1,
       "evidence": "early",
       "url": "https://gapmine.com/opportunities/2026-08-31/qwen-flash-next"
+    },
+    {
+      "rank": 8,
+      "opportunity": "Agent Safety Feature",
+      "who_is_asking": "Tech developers stuck on agent safety, needing a feature to kill dangerous commands automatically",
+      "signals": 2,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-09-05/ai-agent-safety-feature"
     },
     {
       "rank": 9,
@@ -119,6 +119,15 @@
     },
     {
       "rank": 13,
+      "opportunity": "Easy Camera Footage Organization",
+      "who_is_asking": "IP camera users stuck on scrubbing footage for specific events",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-10-02/camera-footage-manager"
+    },
+    {
+      "rank": 14,
       "opportunity": "PCIe x16 to dual x8 adapter",
       "who_is_asking": "ASRock motherboard users hunting for PCIe 5.0 x16 to x8x8 bifurcation risers",
       "signals": 5,
@@ -127,16 +136,43 @@
       "url": "https://gapmine.com/opportunities/2026-09-12/pcie-bifurcation-card"
     },
     {
-      "rank": 14,
-      "opportunity": "Automated email outreach tools",
-      "who_is_asking": "Studio owners stuck on duct-taping multiple tools for cold email campaigns",
+      "rank": 15,
+      "opportunity": "AI Error Detection Tool",
+      "who_is_asking": "Tech teams stuck on AI agent errors, losing decisions to unseen policy mismatches",
       "signals": 4,
-      "sources": 1,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-09-10/cold-email-automation"
+      "sources": 2,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-08-17/ai-agent-error-checker"
     },
     {
-      "rank": 15,
+      "rank": 16,
+      "opportunity": "Obsidian Vault Publisher",
+      "who_is_asking": "Obsidian users stuck on publishing notes without Git, seeking self-hosted alternatives",
+      "signals": 3,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-06-22/obsidian-vault-publishing-platform"
+    },
+    {
+      "rank": 17,
+      "opportunity": "GPU Configuration Optimizer",
+      "who_is_asking": "Dell Precision developers stuck on configuring dual 3060 GPUs for LLM workloads",
+      "signals": 3,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-01/gpu-configuration-optimizer"
+    },
+    {
+      "rank": 18,
+      "opportunity": "Raw Camera App",
+      "who_is_asking": "Samsung users losing natural photo quality, hunting for a raw camera app",
+      "signals": 3,
+      "sources": 1,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-08-18/raw-camera-app"
+    },
+    {
+      "rank": 19,
       "opportunity": "ChatGPT Ads Management Tool",
       "who_is_asking": "ChatGPT advertisers losing money, hunting for ad management expertise",
       "signals": 3,
@@ -145,25 +181,16 @@
       "url": "https://gapmine.com/opportunities/2026-09-08/chatgpt-ads-management-tool"
     },
     {
-      "rank": 16,
+      "rank": 20,
       "opportunity": "VRAM Usage Balancer",
-      "who_is_asking": "Reddit developers losing 1+GB of VRAM, despite adjusting --tensor-split param",
+      "who_is_asking": "Llama.cpp developers losing 1+GB of VRAM due to imbalanced usage between two GPUs",
       "signals": 3,
       "sources": 2,
       "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-09-29/vram-usage-optimizer"
     },
     {
-      "rank": 17,
-      "opportunity": "Free ChatGPT API Alternative",
-      "who_is_asking": "Webdev builders can't afford AI API costs, seeking secure connection to users' own AI accounts",
-      "signals": 3,
-      "sources": 2,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-10-14/free-ai-api"
-    },
-    {
-      "rank": 18,
+      "rank": 21,
       "opportunity": "Fast SaaS Website Setup",
       "who_is_asking": "Nextjs developers hunting for a minimal, open-source website template with basic features",
       "signals": 3,
@@ -172,7 +199,7 @@
       "url": "https://gapmine.com/opportunities/2026-10-21/saas-website-template"
     },
     {
-      "rank": 19,
+      "rank": 22,
       "opportunity": "Win Loss Analysis Tool",
       "who_is_asking": "Series-A B2B martech RevOps leads losing deals, hunting efficient win/loss analysis workflow",
       "signals": 2,
@@ -181,7 +208,7 @@
       "url": "https://gapmine.com/opportunities/2026-07-02/sales-analysis-tool"
     },
     {
-      "rank": 20,
+      "rank": 23,
       "opportunity": "Budget Hyper V Cluster",
       "who_is_asking": "Hyper-V cluster builders for 50-user businesses can't afford costly SAN storage",
       "signals": 2,
@@ -190,49 +217,22 @@
       "url": "https://gapmine.com/opportunities/2026-07-30/budget-hyper-v-cluster"
     },
     {
-      "rank": 21,
-      "opportunity": "Japanese text translator",
-      "who_is_asking": "Linux developers hunting for local Japanese translation tools with automated typsetting and speech-to-subtitle features",
+      "rank": 24,
+      "opportunity": "Automated Word Doc Importer",
+      "who_is_asking": "WordPress/Elementor users stuck on manual Word doc imports, hunting automation tools",
       "signals": 2,
       "sources": 2,
       "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-09-24/local-japanese-translation-tool"
+      "url": "https://gapmine.com/opportunities/2026-09-27/word-doc-importer"
     },
     {
-      "rank": 22,
+      "rank": 25,
       "opportunity": "Easy Safari Extension Conversion",
       "who_is_asking": "Safari users stuck on missing Chrome extensions and APIs, paying $99/year for publishing",
       "signals": 2,
       "sources": 1,
       "evidence": "early",
       "url": "https://gapmine.com/opportunities/2026-09-30/safari-extension-publishing"
-    },
-    {
-      "rank": 23,
-      "opportunity": "Stripe Usage Tracker",
-      "who_is_asking": "Stripe users stuck on syncing usage data to their own DB in real-time",
-      "signals": 1,
-      "sources": 1,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-09/stripe-usage-tracker"
-    },
-    {
-      "rank": 24,
-      "opportunity": "Hyper V Cluster",
-      "who_is_asking": "Hyper-V cluster managers stuck on expensive SAN storage for 50-user business environments",
-      "signals": 1,
-      "sources": 1,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-23/hyper-v-cluster-management"
-    },
-    {
-      "rank": 25,
-      "opportunity": "Facebook Page Backup",
-      "who_is_asking": "Facebook page administrators can't afford manual scrolling to save posts, pictures, and comments",
-      "signals": 1,
-      "sources": 1,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-08-04/facebook-page-data-backup"
     }
   ]
 }
